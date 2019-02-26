@@ -1,0 +1,47 @@
+
+A public class QucikSort {
+
+B	public static void IntArrayQuickSort (int[] data, int l, int r)
+    {
+C       int i, j;
+D       int x;
+
+E       i = l;
+F       j = r;
+
+G       x = data [(l + r) / 2]; /* find pivot item */
+H       while (true) {
+I          while (data[i] < x)
+J             i++;
+K          while (x < data[j])
+L             j--;
+M          if (i <= j) {
+.             exchange (data, i, j);
+N             i++;
+.             j--;
+.          }
+O          if (i > j)
+P             break;
+.       }
+Q       if (l < j)
+R          IntArrayQuickSort (data, l, j);
+S       if (i < r)
+T          IntArrayQuickSort (data, i, r);
+    }
+
+W	public static void exchange (int[] data, int m, int n)
+    {
+.       int temporary;
+
+.       temporary = data [m];
+x       data [m] = data [n];
+.       data [n] = temporary;
+.    }
+
+y	public static void IntArrayQuickSort (int[] data)
+    {
+z      IntArrayQuickSort (data, 0, data.length - 1);
+    }
+
+	
+}
