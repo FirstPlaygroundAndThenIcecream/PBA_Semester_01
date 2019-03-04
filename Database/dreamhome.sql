@@ -23,3 +23,33 @@ CREATE TABLE Property_for_rent (
 	rooms char(10),
 	rent int
 );
+
+IF NOT EXISTS(SELECT * FROM sysobjects where name = 'Client')
+CREATE TABLE Client(
+	clientNo char(5) NOT NULL,
+	fName varchar(50),
+	lName varchar(50),
+	telNo char(15)
+);
+
+IF NOT EXISTS(SELECT * FROM sysobjects where name = 'Lease')
+CREATE TABLE Lease(
+	leaseNo char(5) NOT NULL,
+	paymentMethod varchar(30) NOT NULL,
+	depositPaid char(10),
+	rentStart date,
+	rentFinish date,
+	deposit char(10),
+	duration char(10)
+);
+
+IF NOT EXISTS(SELECT * FROM sysobjects where name = 'Owner')
+CREATE TABLE Owner(
+	ownerNo char(5) NOT NULL,
+	address varchar(35),
+	telNo char(15)
+);
+
+ALTER TABLE Staff
+ADD CONSTRAINT staff_PK PRIMARY KEY (staffNo);
+
