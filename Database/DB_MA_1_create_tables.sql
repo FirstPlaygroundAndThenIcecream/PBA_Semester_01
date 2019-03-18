@@ -34,8 +34,6 @@ CREATE TABLE room (
 	FOREIGN KEY (priceType) REFERENCES price (priceType)
 );
 
-
-
 --IF NOT EXISTS (SELECT*FROM sys.objects WHERE NAME='bed')
 --CREATE TABLE bed (
 --	bedType char(3) NOT NULL ,
@@ -68,8 +66,6 @@ CREATE TABLE booking(
 	PRIMARY KEY (bookingNo),
 	FOREIGN KEY (guestNo) REFERENCES guest (guestNo),
 	FOREIGN KEY (roomNo) REFERENCES room (roomNo),
-	CONSTRAINT check_date check (dateFrom > dateTo)
+	CONSTRAINT check_date check (dateFrom < dateTo),
+	CONSTRAINT check_dateFrom check(dateFrom >= GETDATE())
 );
-
-
-	
