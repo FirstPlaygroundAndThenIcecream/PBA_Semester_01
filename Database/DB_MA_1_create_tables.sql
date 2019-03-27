@@ -67,5 +67,5 @@ CREATE TABLE booking(
 	FOREIGN KEY (guestNo) REFERENCES guest (guestNo),
 	FOREIGN KEY (roomNo) REFERENCES room (roomNo),
 	CONSTRAINT check_date check (dateFrom < dateTo),
-	CONSTRAINT check_dateFrom check(dateFrom >= GETDATE())
+	CONSTRAINT check_dateFrom check (dateFrom >= CONVERT(date, GETDATE()))
 );

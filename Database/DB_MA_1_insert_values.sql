@@ -51,12 +51,14 @@ insert into guest values('g5', 'Johan', 'Petersen', 'M', '+4542165470', 'johanp@
 insert into guest values('g6', 'Melissa', 'Pat', 'F', '+4544065570', 'melissa_p@gmail.com');
 
 insert into booking values('br01', 'g1', 'f100', '2019-04-10', '2019-04-14');
-insert into booking values('br02', 'g2', 'f203', '2019-03-11', '2019-03-22');
-insert into booking values('br03', 'g3', 'f103', '2019-03-17', '2019-03-23');
+insert into booking values('br02', 'g2', 'f203', '2019-03-27', '2019-04-04');
+insert into booking values('br03', 'g3', 'f103', '2019-03-27', '2019-03-29');
 insert into booking values('br04', 'g4', 'f304', '2019-03-28', '2019-04-02');
 insert into booking values('br05', 'g5', 'f205', '2019-04-01', '2019-04-02');
 insert into booking values('br06', 'g2', 'f205', '2019-05-12', '2019-05-16');
 insert into booking values('br07', 'g4', 'f205', '2019-05-01', '2019-05-04');
+insert into booking values('br08', 'g6', 'f303', '2019-03-28', '2019-03-29');
+
 
 
 

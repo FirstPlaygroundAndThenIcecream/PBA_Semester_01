@@ -1,0 +1,11 @@
+Group 4:
+First thing noticed is that the paper is not following the formatting requirement stated in lecture 4 PDF, as it is not 2 columns style.
+
+In general the paper gives a feeling of being unclear.
+
+In the Section 2 Problem Statement, the problem is formed as 'learning model in order to predict a median house price for a district', this is very general. But in the book page 35, the second paragraph under LooK at the Big Picture, says "Your model should learn from this data and be able to predict the median housing price in any district, given all the other metrics". I don't know if the meaning of "any district" is any district in California or in the world. So I don't know if this should be a problem.  
+
+In Section 3 Method, it seems the first paragraph would fit better if to put it in the introductoin section. And the method section and the analysis part is a bit vague, as the two section somewhat is mixed, partly the content in analysis section can be put at the method section in my opinion.
+. 
+
+Group 5's paper I think it is fine. It fullfill the requirement, has a clear method section. The analysis section and finding section is slight weak comparing to its method section, but it has a good conclusion. The whole report has no buzzwords, just quite frank, simple and to the point.  To my knowlegde, I don't have much to pick on the logic amongst the points made in the paper, since myself is not thoroughly understand the housing prediction model yet. 
