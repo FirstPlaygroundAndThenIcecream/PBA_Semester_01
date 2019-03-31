@@ -1,8 +1,11 @@
---SELECT*FROM room_category;
---SELECT*FROM price;
+USE Hotel_MA;
+SELECT*FROM room_category;
+SELECT*FROM price;
 SELECT*FROM room;
---SELECT*FROM guest;			
+SELECT*FROM guest;			
 SELECT*FROM booking;
+
+SELECT * FROM sys.fn_builtin_permissions('SERVER') ORDER BY permission_name;  
 
 --------------------------return all guests at a certain date-----------------------------------
 DECLARE @date date;
