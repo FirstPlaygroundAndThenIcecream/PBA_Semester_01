@@ -63,6 +63,7 @@ CREATE TABLE guest(
 	PRIMARY KEY (guestNo) 
 );
 
+DROP TABLE booking;
 IF NOT EXISTS (SELECT*FROM sys.objects WHERE NAME='booking')
 CREATE TABLE booking(
 	bookingNo char(10) NOT NULL,
@@ -70,12 +71,18 @@ CREATE TABLE booking(
 	roomNo char(5) NOT NULL,
 	dateFrom date NOT NULL,
 	dateTo date NOT NULL,
+	total_stay AS DATEDIFF(DAY, dateFrom, dateTo)
 	PRIMARY KEY (bookingNo),
 	FOREIGN KEY (guestNo) REFERENCES guest (guestNo),
 	FOREIGN KEY (roomNo) REFERENCES room (roomNo),
 	CONSTRAINT check_date check (dateFrom < dateTo),
-	CONSTRAINT check_dateFrom check (dateFrom >= CONVERT(date, GETDATE()))
+	--CONSTRAINT check_dateFrom check (dateFrom >= CONVERT(date, GETDATE()))
 );
+ALTER TABLE booking
+DROP CONSTRAINT check_dateFrom
+
+ALTER TABLE booking WITH NOCHECK
+ADD CONSTRAINT check_dateFrom CHECK (dateFrom > CONVERT(date, GETDATE()));
 
 --------------------------------populate tables with values------------------------------------
 delete from booking;
@@ -136,4 +143,5 @@ insert into booking values('br05', 'g5', 'f205', '2019-04-01', '2019-04-02');
 insert into booking values('br06', 'g2', 'f205', '2019-05-12', '2019-05-16');
 insert into booking values('br07', 'g4', 'f205', '2019-05-01', '2019-05-04');
 insert into booking values('br08', 'g6', 'f303', '2019-03-28', '2019-03-29');
+insert into booking values('br09', 'g2', 'f301', '2019-04-28', '2019-04-29');
 

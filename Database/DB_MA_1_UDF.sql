@@ -1,1 +1,0 @@
-CREATE FUNCTION count_popularity() RETURNS int
