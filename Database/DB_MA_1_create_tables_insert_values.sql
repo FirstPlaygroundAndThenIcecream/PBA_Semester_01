@@ -5,8 +5,9 @@ IF NOT EXISTS(SELECT * FROM sys.databases WHERE NAME='Hotel_MA')
 CREATE DATABASE Hotel_MA;
 
 ------------------------create tables--------------------------------------------------------------
-USE Hotel_MA;
+USE Hotel_MA; 
 
+--------------------table: room category--------------------------------------
 IF NOT EXISTS (SELECT*FROM sys.objects WHERE NAME='room_category')
 CREATE TABLE room_category (
 	roomType char(5) NOT NULL,
@@ -22,6 +23,7 @@ CREATE TABLE room_category (
 	PRIMARY KEY (roomType)
 );
 
+--------------------table: price--------------------------------------
 IF NOT EXISTS (SELECT*FROM sys.objects WHERE NAME='price')
 CREATE TABLE price(
 	priceType char(5) NOT NULL,
@@ -31,6 +33,7 @@ CREATE TABLE price(
 	FOREIGN KEY (roomType) REFERENCES room_category(roomType)
 );
 
+--------------------table: room--------------------------------------
 IF NOT EXISTS (SELECT*FROM sys.objects WHERE NAME='room')
 CREATE TABLE room (
 	roomNo char(5) NOT NULL,
@@ -52,6 +55,7 @@ CREATE TABLE room (
 --	bedTotal char(1) NOT NULL
 --);
 
+--------------------table: guest--------------------------------------
 IF NOT EXISTS (SELECT*FROM sys.objects WHERE NAME='guest')
 CREATE TABLE guest(
 	guestNo char(10) NOT NULL,
@@ -63,6 +67,7 @@ CREATE TABLE guest(
 	PRIMARY KEY (guestNo) 
 );
 
+--------------------table: booking--------------------------------------
 DROP TABLE booking;
 IF NOT EXISTS (SELECT*FROM sys.objects WHERE NAME='booking')
 CREATE TABLE booking(
@@ -81,8 +86,37 @@ CREATE TABLE booking(
 ALTER TABLE booking
 DROP CONSTRAINT check_dateFrom
 
-ALTER TABLE booking WITH NOCHECK
+ALTER TABLE booking WITH NOCHECK  --add constraint 
 ADD CONSTRAINT check_dateFrom CHECK (dateFrom > CONVERT(date, GETDATE()));
+
+--------------------table: cancelled booking--------------------------------------
+IF NOT EXISTS(SELECT*FROM sys.objects WHERE name='cancelled_booking')
+CREATE TABLE cancelled_booking(
+	bookingNo char(10) NOT NULL,
+	guestNo char(10) NOT NULL,
+	roomNo char(5) NOT NULL,
+	dateFrom date NOT NULL,
+	dateTo date NOT NULL,
+	total_stay AS DATEDIFF(DAY, dateFrom, dateTo)
+	PRIMARY KEY (bookingNo),
+	FOREIGN KEY (guestNo) REFERENCES guest (guestNo),
+	FOREIGN KEY (roomNo) REFERENCES room (roomNo),
+);
+
+--------------------table: archived booking--------------------------------------
+DROP TABLE old_booking;
+IF NOT EXISTS (SELECT*FROM sys.objects WHERE NAME='old_booking')
+CREATE TABLE old_booking(
+	bookingNo char(10) NOT NULL,
+	guestNo char(10) NOT NULL,
+	roomNo char(5) NOT NULL,
+	dateFrom date NOT NULL,
+	dateTo date NOT NULL,
+	total_stay int
+	PRIMARY KEY (bookingNo),
+	FOREIGN KEY (guestNo) REFERENCES guest (guestNo),
+	FOREIGN KEY (roomNo) REFERENCES room (roomNo)
+);
 
 --------------------------------populate tables with values------------------------------------
 delete from booking;
@@ -98,6 +132,7 @@ insert into room_category values('d02', 'False', 'True', 'True', 'kingsize', NUL
 insert into room_category values('d03', 'True', 'True', 'True', 'kingsize', NULL, NULL, NULL, NULL, NULL);
 insert into room_category values('f01', 'True', 'True', 'True', 'kingsize', 'Standard', 'Standard', NULL, NULL, NULL);
 insert into room_category values('f02', 'False', 'True', 'True', 'Standard', 'Standard', 'Standard', 'Standard', NULL, NULL);
+insert into room_category values('f03', 'False', 'True', 'True', 'Standard', 'Standard', 'Standard', NULL, NULL, NULL);
 
 insert into price values('pt1', 's01', '899');
 insert into price values('pt2', 's02', '769');
@@ -106,6 +141,7 @@ insert into price values('pt4', 'd02', '1299');
 insert into price values('pt5', 'd03', '1399');
 insert into price values('pt6', 'f01', '1799');
 insert into price values('pt7', 'f02', '1689');
+insert into price values('pt8', 'f03', '1399');
 
 insert into room values('f100', 's01', 'pt1');
 insert into room values('f101', 's02', 'pt2');
@@ -144,4 +180,19 @@ insert into booking values('br06', 'g2', 'f205', '2019-05-12', '2019-05-16');
 insert into booking values('br07', 'g4', 'f205', '2019-05-01', '2019-05-04');
 insert into booking values('br08', 'g6', 'f303', '2019-03-28', '2019-03-29');
 insert into booking values('br09', 'g2', 'f301', '2019-04-28', '2019-04-29');
+insert into booking values('br10', 'g1', 'f202', '2019-05-01', '2019-05-04');
+insert into booking values('br11', 'g6', 'f309', '2019-04-28', '2019-04-30');
+insert into booking values('br12', 'g4', 'f305', '2019-04-29', '2019-05-02');
+insert into booking values('br13', 'g4', 'f205', '2019-04-20', '2019-04-24');
+insert into booking values('br16', 'g3', 'f205', '2019-07-20', '2019-07-24');
+
+delete from booking where booking.bookingNo='br07';
+delete from booking where booking.bookingNo='br10'
+delete from booking where booking.bookingNo='br11'
+
+insert into cancelled_booking values('br07', 'g4', 'f205', '2019-05-01', '2019-05-04');
+insert into cancelled_booking values('br10', 'g1', 'f202', '2019-05-01', '2019-05-04');
+insert into cancelled_booking values('br11', 'g6', 'f309', '2019-04-28', '2019-04-30');
+insert into cancelled_booking values('br14', 'g6', 'f309', '2019-06-11', '2019-06-17');
+insert into cancelled_booking values('br15', 'g2', 'f202', '2019-06-11', '2019-06-17');
 

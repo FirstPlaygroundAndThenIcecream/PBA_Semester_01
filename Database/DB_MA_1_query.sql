@@ -4,8 +4,14 @@ SELECT*FROM price;
 SELECT*FROM room;
 SELECT*FROM guest;			
 SELECT*FROM booking;
+SELECT*FROM cancelled_booking;
 
 SELECT * FROM sys.fn_builtin_permissions('SERVER') ORDER BY permission_name;  
+
+-----try output-----------
+update room set roomType='f03' 
+where roomType='f02'
+
 
 --------------------------return all guests at a certain date-----------------------------------
 DECLARE @date date;
