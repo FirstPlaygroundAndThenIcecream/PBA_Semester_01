@@ -5,48 +5,38 @@ DROP CONSTRAINT ValidateDates;
 --------------------------drop function-------------------------------------
 DROP FUNCTION dbo.Validate_Dates;
 
---------------------------create UDF----------------------------------------
-create function dbo.Validate_Dates
+--------------------------create UDF checking overlapping booking date----------------------------------------
+CREATE FUNCTION dbo.Validate_Dates
 (
 	@bookingNo char(10),
-	@guestNo char(10),
+	@guestNo char(5),
     @roomNo char(5),
 	@dateFrom date,
 	@dateTo date
 )
-returns bit
-as
-begin
-	declare @validate bit = 1;
-	if exists (
-	select*from dbo.booking
-	where booking.roomNo = @roomNo
-	AND @dateTo >= booking.dateFrom AND @dateFrom <= booking.dateTo
-	)
-	set @validate = 0;
-	return @validate;
-end;
-go
+RETURNS BIT
+AS
+BEGIN
+	DECLARE @validate bit = 1;
+	DECLARE @booking_dateFrom date;
+	DECLARE @booking_dateTO date;
+	SET @booking_dateFrom = (SELECT booking.dateFrom FROM booking WHERE @roomNo = booking.roomNo);
+	SET @booking_dateTO = (SELECT booking.dateTo FROM booking WHERE @roomNo = booking.roomNo);
+	IF @dateTo >= @booking_dateFrom AND @dateFrom <= @booking_dateTO
+	BEGIN
+	SET @validate = 0;
+	END
+	RETURN (@validate); 
+END;
+GO
 
-PRINT dbo.Validate_Dates('br02', 'g2', 'f205', '2019-04-04', '2019-04-06');
-
---begin
---    declare @Valid bit = 1;
-
---    if exists(    select *
---                  from   dbo.booking 
---                  where  booking.roomNo = @roomNo
---                  and    @dateFrom <= booking.dateTo and @dateTo >= booking.dateFrom
---			)
---       set @Valid = 0;
---    return @Valid;
---end
---GO
+select*from booking;
+PRINT dbo.Validate_Dates('f301', '2019-04-15', '2019-04-16');
 
 
-alter table booking with nocheck
-add constraint ValidateDates
-    check (dbo.Validate_Dates(bookingNo, guestNo, roomNo, dateFrom, dateTo) = 1);
+ALTER TABLE booking WITH NOCHECK
+ADD CONSTRAINT ValidateDates
+    CHECK (dbo.Validate_Dates(bookingNo, guestNo, roomNo, dateFrom, dateTo) = 1);
 
-insert into booking values('br07', 'g2', 'f300', '2019-04-01', '2019-04-02');
+INSERT INTO booking VALUES('br17', 'g2', 'f307', '2019-05-01', '2019-05-02');
 

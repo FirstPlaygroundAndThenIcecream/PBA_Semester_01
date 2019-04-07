@@ -72,7 +72,7 @@ DROP TABLE booking;
 IF NOT EXISTS (SELECT*FROM sys.objects WHERE NAME='booking')
 CREATE TABLE booking(
 	bookingNo char(10) NOT NULL,
-	guestNo char(10) NOT NULL,
+ 	guestNo char(10) NOT NULL,
 	roomNo char(5) NOT NULL,
 	dateFrom date NOT NULL,
 	dateTo date NOT NULL,

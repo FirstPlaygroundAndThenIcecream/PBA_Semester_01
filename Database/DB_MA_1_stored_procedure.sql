@@ -17,10 +17,12 @@ DROP PROCEDURE usp_getAllCancelledGuestInfo;
 
 CREATE PROCEDURE usp_getAllCancelledGuestInfo 
 AS
-SELECT * FROM guest
+SELECT guest.guestNo, guest.fName, guest.lName, cancelled_booking.roomNo, cancelled_booking.bookingNo, cancelled_booking.total_stay, room.roomType, price.price, cancelled_booking.total_stay*price.price AS total_price 
+FROM guest
 JOIN cancelled_booking ON cancelled_booking.guestNo = guest.guestNo
 JOIN room ON cancelled_booking.roomNo=room.roomNo
 JOIN room_category ON room.roomType = room_category.roomType
+JOIN price ON room.priceType = price.priceType
 ORDER BY room.roomType
 
 EXEC usp_getAllCancelledGuestInfo

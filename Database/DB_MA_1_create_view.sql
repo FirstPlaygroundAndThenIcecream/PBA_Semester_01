@@ -15,6 +15,7 @@ JOIN guest ON guest.guestNo = booking.guestNo
 JOIN room ON booking.roomNo = room.roomNo
 JOIN price ON room.roomType = price.roomType; 
 
+SELECT*FROM vw_booking_detail;
 
 ----------------create view for managers' use--------------------------------
 --DROP VIEW vw_hotel_status;
