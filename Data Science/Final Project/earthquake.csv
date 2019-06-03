@@ -1,0 +1,794 @@
+time;latitude;longitude;depth;mag;magType;nst;gap;dmin;rms;net;id;updated;place;type;horizontalError;depthError;magError;magNst;status;locationSource;magSource
+30/04/2019 15.11;67362;-729653;15821;43;mb;;141;846;62;us;us70003ekn;30/04/2019 15.42;7km NE of Aratoca, Colombia;earthquake;191;219;52;105;reviewed;us;us
+30/04/2019 14.48;18264;990976;11838;44;mb;;118;878;61;us;us70003ekh;30/04/2019 15.33;36km ENE of Sibolga, Indonesia;earthquake;49;57;127;18;reviewed;us;us
+30/04/2019 10.06;236627;-630176;10;46;mb;;163;5584;71;us;us70003ehc;30/04/2019 14.07;North Atlantic Ocean;earthquake;92;19;32;300;reviewed;us;us
+30/04/2019 04.28;-62667;1315867;5677;51;mww;;62;1728;67;us;us70003eek;30/04/2019 04.42;144km WSW of Tual, Indonesia;earthquake;53;7;73;18;reviewed;us;us
+30/04/2019 03.47;-560849;-275463;11457;5;mb;;98;5432;71;us;us70003eed;30/04/2019 04.02;71km NNW of Visokoi Island, South Georgia and the South Sandwich Islands;earthquake;13;98;95;35;reviewed;us;us
+30/04/2019 03.23;-61756;14662;6682;44;mb;;142;3252;2;us;us70003ee2;30/04/2019 03.54;72km NNW of Lae, Papua New Guinea;earthquake;102;106;127;18;reviewed;us;us
+30/04/2019 02.23;-80331;1226875;22284;48;mww;;28;746;84;us;us70003edg;30/04/2019 05.30;48km N of Palue, Indonesia;earthquake;71;49;8;15;reviewed;us;us
+30/04/2019 01.05;122842;-877846;2334;44;mb;;175;851;7;us;us70003eca;30/04/2019 01.40;62km SW of Jiquilillo, Nicaragua;earthquake;5;111;101;28;reviewed;us;us
+30/04/2019 00.24;-325696;-718549;2142;44;mb;;152;47;65;us;us70003eb3;30/04/2019 02.07;56km NNW of Valparaiso, Chile;earthquake;47;36;19;8;reviewed;us;us
+29/04/2019 23.33;-18274;1226609;10;44;mb;;54;788;97;us;us70003ea0;30/04/2019 00.28;97km S of Luwuk, Indonesia;earthquake;62;19;149;13;reviewed;us;us
+29/04/2019 19.39;230333;948184;13305;47;mb;;122;119;9;us;us70003e51;29/04/2019 23.12;78km SSE of Mawlaik, Burma;earthquake;8;69;75;53;reviewed;us;us
+29/04/2019 19.33;181151;1200428;10;48;mb;;83;4778;56;us;us70003e4s;30/04/2019 15.15;47km W of Callaguip, Philippines;earthquake;47;19;49;128;reviewed;us;us
+29/04/2019 18.35;-281491;-673868;12974;5;mb;;40;2026;72;us;us70003e2q;29/04/2019 19.23;19km ESE of Tinogasta, Argentina;earthquake;74;65;33;286;reviewed;us;us
+29/04/2019 16.19;10882;572395;10;62;mww;;47;14023;113;us;us70003e0j;29/04/2019 18.22;Carlsberg Ridge;earthquake;73;18;71;19;reviewed;us;us
+29/04/2019 16.07;-307862;-715115;3942;47;mb;;134;154;65;us;us70003e09;30/04/2019 00.32;36km SW of Ovalle, Chile;earthquake;59;6;208;7;reviewed;us;us
+29/04/2019 15.36;335053;814869;1571;45;mb;;135;686;74;us;us70003e00;29/04/2019 19.10;126km NNE of Napug, China;earthquake;54;47;108;25;reviewed;us;us
+29/04/2019 15.22;448714;-280159;10;47;mb;;57;7344;76;us;us70003dzu;29/04/2019 19.09;Northern Mid-Atlantic Ridge;earthquake;104;19;41;183;reviewed;us;us
+29/04/2019 14.04;555432;160534;14415;44;mb;;123;2756;73;us;us70003dyv;29/04/2019 15.03;123km ESE of Esso, Russia;earthquake;107;91;43;157;reviewed;us;us
+29/04/2019 11.56;316941;1384044;38037;42;mb;;130;1851;31;us;us70003dw1;30/04/2019 14.46;202km SW of Hachijo-jima, Japan;earthquake;98;66;115;21;reviewed;us;us
+29/04/2019 10.07;-144458;-754838;3822;46;mb;;132;2778;89;us;us70003dtx;29/04/2019 22.03;31km WNW of Rio Grande, Peru;earthquake;83;7;44;156;reviewed;us;us
+29/04/2019 09.16;393476667;-1232351667;307;432;mw;52;57;1448;1;nc;nc73173775;30/04/2019 14.37;10km NNW of Redwood Valley, CA;earthquake;13;15;;5;reviewed;nc;nc
+29/04/2019 07.24;345418;1375425;31388;45;mb;;51;545;75;us;us70003ds5;29/04/2019 15.26;19km S of Kosai-shi, Japan;earthquake;76;51;56;92;reviewed;us;us
+29/04/2019 06.43;353598;27694;294;5;mb;;42;473;1;us;us70003dri;29/04/2019 12.08;46km ESE of Karpathos, Greece;earthquake;51;48;34;268;reviewed;us;us
+29/04/2019 04.48;431851;-291045;10;54;mww;;61;6063;88;us;us70003dpt;30/04/2019 04.50;Northern Mid-Atlantic Ridge;earthquake;87;19;73;18;reviewed;us;us
+29/04/2019 04.44;685;-729785;14822;41;mb;;58;956;82;us;us70003dpn;29/04/2019 06.02;13km WSW of Guaca, Colombia;earthquake;47;68;77;46;reviewed;us;us
+29/04/2019 04.21;123895;-881922;35;44;mb;;193;1183;106;us;us70003dpc;29/04/2019 05.20;89km WSW of Jiquilillo, Nicaragua;earthquake;77;2;74;52;reviewed;us;us
+29/04/2019 02.37;-172615;-1744209;18323;43;mb;;70;4194;56;us;us70003dmv;29/04/2019 03.01;160km NNW of Neiafu, Tonga;earthquake;83;68;55;92;reviewed;us;us
+29/04/2019 02.23;392124;736416;35;48;mb;;39;1449;122;us;us70003dmi;29/04/2019 02.50;24km NNE of Karakul, Tajikistan;earthquake;63;2;46;146;reviewed;us;us
+29/04/2019 01.42;-93506;1160563;8105;42;mb;;76;2074;123;us;us70003dn7;29/04/2019 12.57;56km SSW of Kute, Indonesia;earthquake;77;96;176;9;reviewed;us;us
+29/04/2019 01.31;36208;1267625;4466;46;mb;;172;2893;66;us;us70003dlw;29/04/2019 01.47;244km SE of Sarangani, Philippines;earthquake;99;12;182;9;reviewed;us;us
+28/04/2019 23.56;397909;-1174778;38;41;ml;15;11816;69;2006;nn;nn00683467;29/04/2019 23.57;48km NW of Austin, Nevada;earthquake;;41;19;9;reviewed;nn;nn
+28/04/2019 23.06;-201899;1697053;15998;47;mb;;132;32;89;us;us70003diw;28/04/2019 23.28;84km SSE of Isangel, Vanuatu;earthquake;145;94;89;38;reviewed;us;us
+28/04/2019 19.48;9302;-630364;4923;5;mb;;134;3123;69;us;us70003dgt;29/04/2019 00.27;51km SSE of Maturin, Venezuela;earthquake;35;99;42;182;reviewed;us;us
+28/04/2019 19.33;522139;1593355;7228;45;mb;;88;912;102;us;us70003dgv;28/04/2019 22.06;101km SE of Vilyuchinsk, Russia;earthquake;108;75;1;29;reviewed;us;us
+28/04/2019 19.03;397969;-1174942;4;4;ml;23;7323;685;1711;nn;nn00683435;29/04/2019 19.04;49km NW of Austin, Nevada;earthquake;;32;25;17;reviewed;nn;nn
+28/04/2019 18.30;-146105;1673009;151;48;mb;;67;7465;81;us;us70003dg7;28/04/2019 19.05;55km NNE of Port-Olry, Vanuatu;earthquake;95;72;46;149;reviewed;us;us
+28/04/2019 16.22;-300583;-716683;1887;4;ml;;196;398;73;us;us70003dfa;28/04/2019 16.54;33km WSW of Coquimbo, Chile;earthquake;48;128;47;60;reviewed;us;us
+28/04/2019 16.15;-191433;167757;10;5;mb;;126;3162;95;us;us70003df8;28/04/2019 18.33;164km WNW of Isangel, Vanuatu;earthquake;55;19;55;104;reviewed;us;us
+28/04/2019 14.46;-156616;-751641;3811;44;mb;;170;3999;104;us;us70003ded;28/04/2019 20.50;50km S of Minas de Marcona, Peru;earthquake;106;115;139;15;reviewed;us;us
+28/04/2019 14.03;-321983;-720803;2286;46;mwr;;87;754;73;us;us70003ddw;30/04/2019 00.47;84km WNW of La Ligua, Chile;earthquake;56;47;34;85;reviewed;us;us
+28/04/2019 12.34;-62243;142225;10;51;mb;;44;5821;86;us;us70003dcy;28/04/2019 12.52;104km E of Kiunga, Papua New Guinea;earthquake;87;19;78;53;reviewed;us;us
+28/04/2019 12.25;-241184;-710102;402;47;mwr;;143;732;1;us;us70003dcs;28/04/2019 16.32;80km SW of Antofagasta, Chile;earthquake;52;55;62;25;reviewed;us;us
+28/04/2019 09.43;167387;-861144;10;51;mww;;42;289;88;us;us70003dbt;29/04/2019 17.15;42km NW of Savannah Bight, Honduras;earthquake;66;19;73;18;reviewed;us;us
+28/04/2019 08.57;98267;1264435;10;46;mb;;110;2869;67;us;us70003dbq;28/04/2019 10.52;31km E of General Luna, Philippines;earthquake;102;19;43;159;reviewed;us;us
+28/04/2019 08.51;98074;1264691;10;46;mb;;109;2859;54;us;us70003dbm;28/04/2019 10.23;34km E of General Luna, Philippines;earthquake;35;19;53;105;reviewed;us;us
+28/04/2019 07.59;97537;1265011;758;48;mb;;91;2818;62;us;us70003dar;28/04/2019 08.41;37km E of General Luna, Philippines;earthquake;77;34;4;195;reviewed;us;us
+28/04/2019 07.34;98162;1266055;2317;47;mb;;110;2911;68;us;us70003dab;28/04/2019 08.06;49km E of General Luna, Philippines;earthquake;6;53;48;131;reviewed;us;us
+28/04/2019 06.00;9504;1264596;709;49;mb;;111;257;117;us;us70003d9b;28/04/2019 06.23;38km NE of Cortes, Philippines;earthquake;95;67;37;229;reviewed;us;us
+28/04/2019 05.38;-74807;1278452;16773;43;mb;;54;3458;111;us;us70003d97;28/04/2019 06.29;277km ENE of Dili, East Timor;earthquake;97;86;126;18;reviewed;us;us
+28/04/2019 05.26;193316667;-1551055;688;424;ml;63;152;5072;1;hv;hv70927626;30/04/2019 04.40;16km SE of Volcano, Hawaii;earthquake;3;25;189;54;reviewed;hv;hv
+28/04/2019 05.19;-259005;-712038;10;42;mb;;194;597;96;us;us70003d8u;28/04/2019 05.55;91km SW of Taltal, Chile;earthquake;36;19;237;5;reviewed;us;us
+28/04/2019 03.56;338626;9056;10;41;mb;;117;4175;113;us;us70003d8f;28/04/2019 04.48;173km WSW of Tanggulashan, China;earthquake;78;2;144;13;reviewed;us;us
+28/04/2019 02.58;613991;-1499347;404;4;ml;;;;69;ak;ak0195f5rhn0;30/04/2019 01.12;16km N of Anchorage, Alaska;earthquake;;3;;;reviewed;ak;ak
+28/04/2019 02.49;515763;159928;10;45;mb;;157;1648;85;us;us70003d79;28/04/2019 05.59;183km SE of Vilyuchinsk, Russia;earthquake;75;19;72;57;reviewed;us;us
+28/04/2019 02.33;514809;1598764;10;46;mb;;85;1719;123;us;us70003d7a;28/04/2019 05.19;190km SSE of Vilyuchinsk, Russia;earthquake;86;19;69;62;reviewed;us;us
+28/04/2019 02.31;515326;1600347;10;45;mb;;166;1718;1;us;us70003d71;28/04/2019 02.53;191km SE of Vilyuchinsk, Russia;earthquake;75;19;7;61;reviewed;us;us
+28/04/2019 02.20;-212899;-1745881;10;51;mb;;127;7813;101;us;us70003d6u;28/04/2019 02.40;37km E of `Ohonua, Tonga;earthquake;124;19;44;169;reviewed;us;us
+28/04/2019 02.02;514826;1597096;10;42;mb;;168;1675;7;us;us70003d6j;28/04/2019 02.28;184km SSE of Vilyuchinsk, Russia;earthquake;87;19;136;15;reviewed;us;us
+28/04/2019 01.25;375832;206777;10;43;mb;;140;1072;85;us;us70003d5r;28/04/2019 23.13;20km SW of Mouzaki, Greece;earthquake;63;19;169;10;reviewed;us;us
+28/04/2019 00.50;-302455;-714225;6142;4;mb;;127;362;86;us;us70003d59;28/04/2019 22.01;33km SSW of Coquimbo, Chile;earthquake;56;42;368;2;reviewed;us;us
+27/04/2019 22.27;391771;973578;2162;51;mww;;29;10853;82;us;us70003d40;27/04/2019 22.45;79km SSW of Laojunmiao, China;earthquake;86;5;86;13;reviewed;us;us
+27/04/2019 21.10;465118;1532352;10;45;mb;;138;7205;73;us;us70003d36;27/04/2019 23.58;Kuril Islands;earthquake;98;19;72;56;reviewed;us;us
+27/04/2019 20.10;-371761;1790199;35;5;mww;;67;686;107;us;us70003d2b;27/04/2019 20.32;183km ENE of Opotiki, New Zealand;earthquake;75;2;86;13;reviewed;us;us
+27/04/2019 19.24;424211;1429181;12147;54;mww;;99;443;133;us;us70003d16;28/04/2019 19.29;46km ENE of Shizunai, Japan;earthquake;64;47;71;19;reviewed;us;us
+27/04/2019 17.30;265025;1271833;10;44;mb;;100;1029;127;us;us70003czy;28/04/2019 12.26;59km WNW of Naha-shi, Japan;earthquake;57;19;127;18;reviewed;us;us
+27/04/2019 17.07;375554;203605;10;44;mb;;99;1302;112;us;us70003cz6;27/04/2019 18.27;44km WSW of Mouzaki, Greece;earthquake;24;19;12;20;reviewed;us;us
+27/04/2019 17.04;-446168;-817254;10;43;mb;;242;6846;112;us;us70003cz4;27/04/2019 18.21;West Chile Rise;earthquake;133;2;189;8;reviewed;us;us
+27/04/2019 15.32;-42733;1372889;10;49;mb;;93;5206;121;us;us70003cyj;28/04/2019 02.27;111km ESE of Enarotali, Indonesia;earthquake;93;19;62;82;reviewed;us;us
+27/04/2019 15.04;-43117;1021057;531;5;mb;;65;849;103;us;us70003cyd;27/04/2019 16.57;59km SSW of Bengkulu, Indonesia;earthquake;67;55;87;42;reviewed;us;us
+27/04/2019 13.32;37333;1421101;2411;45;mb;;151;1177;88;us;us70003cxv;27/04/2019 13.56;99km E of Namie, Japan;earthquake;77;57;86;40;reviewed;us;us
+27/04/2019 13.11;99393;1263967;1955;49;mb;;124;2963;85;us;us70003cxs;27/04/2019 13.31;31km ENE of General Luna, Philippines;earthquake;94;25;69;66;reviewed;us;us
+27/04/2019 12.59;-352622;-1035971;10;48;mb;;132;9479;49;us;us70003cxq;27/04/2019 13.22;Southeast of Easter Island;earthquake;134;19;53;111;reviewed;us;us
+27/04/2019 12.08;97002;1266988;118;49;mb;;122;2838;62;us;us70003cxh;27/04/2019 12.34;59km E of General Luna, Philippines;earthquake;6;5;64;76;reviewed;us;us
+27/04/2019 09.39;731859;70834;10;42;mb;;115;551;114;us;us70003cwh;27/04/2019 09.54;Greenland Sea;earthquake;104;2;147;13;reviewed;us;us
+27/04/2019 09.26;-392977;1763282;4088;43;mb;;136;183;69;us;us70003cw8;28/04/2019 07.29;47km SE of Turangi, New Zealand;earthquake;67;123;202;7;reviewed;us;us
+27/04/2019 08.49;68599;-730416;1554;45;mb;;133;962;54;us;us70003cw3;27/04/2019 09.05;14km S of Piedecuesta, Colombia;earthquake;115;129;75;52;reviewed;us;us
+27/04/2019 08.27;26417;930488;4619;48;mb;;111;1367;58;us;us70003cvu;27/04/2019 16.42;34km SE of Tezpur, India;earthquake;51;73;79;49;reviewed;us;us
+27/04/2019 08.24;-181401;656376;10;47;mb;;59;2681;127;us;us70003cvv;27/04/2019 08.41;289km NE of Port Mathurin, Mauritius;earthquake;94;19;95;34;reviewed;us;us
+27/04/2019 02.57;372318;141195;5632;43;mb;;149;713;52;us;us70003cu7;27/04/2019 03.15;32km SSE of Namie, Japan;earthquake;28;77;6;80;reviewed;us;us
+27/04/2019 02.52;117572;1251505;10017;46;mb;;66;11431;43;us;us70003cub;27/04/2019 04.37;13km SE of Tutubigan, Philippines;earthquake;86;61;8;46;reviewed;us;us
+27/04/2019 01.20;15576;1193247;10;46;mb;;102;7391;71;us;us70003cty;27/04/2019 02.13;61km WSW of Bolitoc, Philippines;earthquake;98;19;53;106;reviewed;us;us
+26/04/2019 23.53;352103;278641;10;41;mb;;111;665;87;us;us70003cse;27/04/2019 00.06;67km ESE of Karpathos, Greece;earthquake;52;19;116;21;reviewed;us;us
+26/04/2019 23.40;351865;278481;10;41;mb;;121;666;128;us;us70003cs6;26/04/2019 23.55;67km ESE of Karpathos, Greece;earthquake;35;2;97;29;reviewed;us;us
+26/04/2019 23.22;98958;1267346;10;48;mb;;48;3031;8;us;us70003cry;26/04/2019 23.47;64km E of General Luna, Philippines;earthquake;89;18;52;114;reviewed;us;us
+26/04/2019 22.28;97892;1265812;10;52;mww;;66;2878;87;us;us70003cr0;27/04/2019 17.45;46km E of General Luna, Philippines;earthquake;86;18;71;19;reviewed;us;us
+26/04/2019 21.35;63314;601248;10;44;mb;;119;11876;46;us;us70003cpv;27/04/2019 17.33;Carlsberg Ridge;earthquake;111;19;86;39;reviewed;us;us
+26/04/2019 21.11;99712;1267173;10;48;mb;;114;3094;84;us;us70003cp8;27/04/2019 17.30;64km ENE of General Luna, Philippines;earthquake;94;18;61;82;reviewed;us;us
+26/04/2019 21.10;-24162;-1762834;35;51;mb;;47;7781;98;us;us70003cpb;27/04/2019 17.20;South of the Fiji Islands;earthquake;92;11;59;92;reviewed;us;us
+26/04/2019 20.56;-209112;-691186;11181;44;mb;;42;368;69;us;us70003cnz;27/04/2019 16.04;131km SE of Iquique, Chile;earthquake;46;3;148;13;reviewed;us;us
+26/04/2019 19.19;28263;1049533;10;43;mb;;150;4445;69;us;us70003cmh;27/04/2019 16.01;27km W of Zhongcheng, China;earthquake;113;19;93;35;reviewed;us;us
+26/04/2019 19.10;374046;556056;10;42;mb;;157;835;83;us;us70003cli;27/04/2019 15.45;10km ENE of Kalaleh, Iran;earthquake;54;19;118;20;reviewed;us;us
+26/04/2019 17.04;5264;-827831;10;5;mww;;156;3508;108;us;us70003ciz;26/04/2019 19.13;South of Panama;earthquake;52;19;71;19;reviewed;us;us
+26/04/2019 14.05;-232139;-666245;21643;44;mb;;32;1454;123;us;us70003cex;26/04/2019 14.32;95km W of El Aguilar, Argentina;earthquake;68;9;13;17;reviewed;us;us
+26/04/2019 12.54;97771;1267369;10;5;mb;;85;2923;94;us;us70003cee;26/04/2019 13.14;63km E of General Luna, Philippines;earthquake;86;19;43;177;reviewed;us;us
+26/04/2019 12.09;-267041;-1143752;10;46;mb;;178;4434;69;us;us70003ceb;26/04/2019 13.02;Easter Island region;earthquake;145;2;65;70;reviewed;us;us
+26/04/2019 11.16;352198;277749;10;44;mb;;116;598;95;us;us70003ccr;26/04/2019 14.06;60km ESE of Karpathos, Greece;earthquake;64;19;68;63;reviewed;us;us
+26/04/2019 10.04;97969;1264849;4895;53;mww;;94;2854;99;us;us70003cby;26/04/2019 13.47;35km E of General Luna, Philippines;earthquake;91;69;73;18;reviewed;us;us
+26/04/2019 08.22;-259127;-711294;1664;55;mww;;101;531;16;us;us70003cb3;29/04/2019 05.13;86km SW of Taltal, Chile;earthquake;4;4;71;19;reviewed;us;us
+26/04/2019 08.04;98192;1265291;10;51;mb;;88;2889;92;us;us70003cb0;27/04/2019 08.20;40km E of General Luna, Philippines;earthquake;83;18;5;129;reviewed;us;us
+26/04/2019 07.27;97761;1265781;6744;52;mb;;46;2864;8;us;us70003cam;26/04/2019 17.54;46km E of General Luna, Philippines;earthquake;83;6;36;255;reviewed;us;us
+26/04/2019 07.00;-70685;1255705;52359;46;mb;;41;2964;7;us;us70003cag;26/04/2019 07.32;164km N of Dili, East Timor;earthquake;115;85;;;reviewed;us;us
+26/04/2019 05.54;-20731;-1766935;25174;44;mb;;58;6575;127;us;us70003cac;26/04/2019 06.27;160km WNW of Havelu, Tonga;earthquake;115;63;5;117;reviewed;us;us
+26/04/2019 02.37;512407;-1779908;35;41;mb;;207;585;109;us;us70003c9l;26/04/2019 06.20;72km S of Tanaga Volcano, Alaska;earthquake;23;2;41;162;reviewed;us;us
+26/04/2019 01.41;-107421;1618797;3599;47;mb;;102;2301;71;us;us70003c93;26/04/2019 06.23;32km S of Kirakira, Solomon Islands;earthquake;109;79;53;110;reviewed;us;us
+26/04/2019 01.37;235884;951868;3538;45;mb;;117;1032;77;us;us70003c8v;26/04/2019 06.28;78km E of Mawlaik, Burma;earthquake;65;10;135;16;reviewed;us;us
+25/04/2019 23.57;-19282;1224871;10;53;mww;;21;925;65;us;us70003c7k;26/04/2019 06.50;113km SSW of Luwuk, Indonesia;earthquake;55;17;69;20;reviewed;us;us
+25/04/2019 21.00;18257;1207041;4341;46;mb;;153;5018;114;us;us70003c3r;26/04/2019 03.17;6km ENE of Vintar, Philippines;earthquake;118;101;52;110;reviewed;us;us
+25/04/2019 18.45;-5299;1514894;10979;5;mb;;85;1289;57;us;us70003c1n;26/04/2019 18.35;135km SW of Kokopo, Papua New Guinea;earthquake;68;73;75;59;reviewed;us;us
+25/04/2019 17.15;-576543;-240377;10;47;mb;;109;2041;74;us;us70003bz7;26/04/2019 18.27;211km NE of Bristol Island, South Sandwich Islands;earthquake;151;19;102;29;reviewed;us;us
+25/04/2019 17.03;306721;573171;10;44;mb;;40;557;97;us;us70003byn;26/04/2019 16.50;48km NNE of Kerman, Iran;earthquake;53;18;67;64;reviewed;us;us
+25/04/2019 13.42;-578726;-246703;5457;51;mb;;117;7525;58;us;us70003bwd;25/04/2019 13.59;168km NE of Bristol Island, South Sandwich Islands;earthquake;139;98;92;38;reviewed;us;us
+25/04/2019 13.02;77198;1265561;7366;48;mb;;116;1164;85;us;us70003bvs;25/04/2019 23.07;2km NNE of Kinablangan, Philippines;earthquake;5;74;48;135;reviewed;us;us
+25/04/2019 03.34;31749;1283786;3699;47;mb;;122;2592;116;us;us70003brx;25/04/2019 03.53;165km NNE of Tobelo, Indonesia;earthquake;102;89;97;32;reviewed;us;us
+25/04/2019 01.27;241892;1428728;10;49;mb;;104;296;13;us;us70003bqw;25/04/2019 01.48;169km ESE of Iwo Jima, Japan;earthquake;95;17;48;137;reviewed;us;us
+25/04/2019 01.18;-207805;-1778239;45766;49;mb;;49;4928;108;us;us70003bqn;25/04/2019 01.35;92km E of Ndoi Island, Fiji;earthquake;61;75;31;328;reviewed;us;us
+24/04/2019 20.57;-21507;-685159;14989;54;mww;;47;734;186;us;us70003bi7;25/04/2019 20.59;114km NNE of Calama, Chile;earthquake;73;71;73;18;reviewed;us;us
+24/04/2019 20.42;-3652;125901;4263;51;mb;;46;185;107;us;us70003bhw;24/04/2019 20.59;169km NNE of Dofa, Indonesia;earthquake;7;72;58;95;reviewed;us;us
+24/04/2019 18.36;-31752;1428347;10;49;mb;;69;4664;84;us;us70003bfn;24/04/2019 23.51;54km E of Aitape, Papua New Guinea;earthquake;92;19;82;46;reviewed;us;us
+24/04/2019 17.55;282612;103538;10;45;mb;;77;5577;131;us;us70003bf3;24/04/2019 23.25;3km W of Jincheng, China;earthquake;68;17;86;40;reviewed;us;us
+24/04/2019 15.32;-242099;-673117;18868;44;mb;;57;1483;84;us;us70003bc5;27/04/2019 07.53;100km W of San Antonio de los Cobres, Argentina;earthquake;98;10;219;6;reviewed;us;us
+24/04/2019 13.56;348858;82599;10;45;mb;;86;7786;54;us;us70003bb4;24/04/2019 14.28;Western Xizang;earthquake;84;19;75;53;reviewed;us;us
+24/04/2019 12.05;-81061;295175;10;46;mb;;82;7245;57;us;us70003b9j;24/04/2019 12.30;43km NNW of Kaputa, Zambia;earthquake;67;2;142;15;reviewed;us;us
+24/04/2019 08.24;-214883;-699157;4908;48;mb;;130;596;129;us;us70003b79;24/04/2019 08.41;72km NNE of Tocopilla, Chile;earthquake;6;101;155;13;reviewed;us;us
+24/04/2019 08.14;25906;1282718;4261;46;mb;;122;202;63;us;us70003b78;30/04/2019 15.53;99km NNE of Tobelo, Indonesia;earthquake;48;96;1;30;reviewed;us;us
+24/04/2019 06.44;516734;1597477;35;45;mb;;156;151;61;us;us70003b67;24/04/2019 06.58;167km SSE of Vilyuchinsk, Russia;earthquake;93;2;81;45;reviewed;us;us
+24/04/2019 06.41;-583938;-298353;10;5;mb;;114;19641;44;us;us70003b65;24/04/2019 06.52;205km WNW of Bristol Island, South Sandwich Islands;earthquake;94;19;106;28;reviewed;us;us
+24/04/2019 06.02;516594;160388;10;46;mb;;195;1733;96;us;us70003b5s;24/04/2019 06.25;194km SE of Petropavlovsk-Kamchatskiy, Russia;earthquake;81;2;146;14;reviewed;us;us
+24/04/2019 05.43;79974;1267185;5948;49;mb;;134;1458;101;us;us70003b5k;24/04/2019 06.08;30km E of Santa Maria, Philippines;earthquake;103;76;91;38;reviewed;us;us
+24/04/2019 05.28;23086;1283107;10922;49;mb;;112;1794;92;us;us70003b5i;24/04/2019 05.51;72km NNE of Tobelo, Indonesia;earthquake;66;72;55;102;reviewed;us;us
+24/04/2019 04.17;23339;1282849;10833;5;mb;;106;1802;91;us;us70003b4v;24/04/2019 04.34;73km NNE of Tobelo, Indonesia;earthquake;9;58;75;56;reviewed;us;us
+24/04/2019 04.04;-61213;1496819;6144;49;mb;;84;3128;9;us;us70003b4p;24/04/2019 05.57;18km NE of Kandrian, Papua New Guinea;earthquake;78;68;56;100;reviewed;us;us
+24/04/2019 02.44;277993;85027;2869;47;mb;;60;1587;86;us;us70003b3q;27/04/2019 12.44;27km WNW of Kirtipur, Nepal;earthquake;67;39;44;155;reviewed;us;us
+24/04/2019 00.35;-12756;454409;10;46;mb;;80;6459;85;us;us70003b17;24/04/2019 00.52;17km ENE of Pamandzi, Mayotte;earthquake;77;19;128;18;reviewed;us;us
+23/04/2019 22.15;28414;945988;14;59;mww;;15;3299;98;us;us70003axc;27/04/2019 09.47;31km NNW of Along, India;earthquake;68;18;62;25;reviewed;us;us
+23/04/2019 21.23;548085;1645197;10;46;mb;;74;3904;64;us;us70003awa;24/04/2019 18.25;103km WSW of Nikol'skoye, Russia;earthquake;93;18;37;221;reviewed;us;us
+23/04/2019 20.03;149108;1205743;5344;47;mb;;118;7879;75;us;us70003av0;24/04/2019 18.10;1km ESE of Santa Cruz, Philippines;earthquake;91;75;46;144;reviewed;us;us
+23/04/2019 18.37;-403132;176012;35;44;mb;;100;407;22;us;us70003asw;24/04/2019 11.30;33km E of Palmerston North, New Zealand;earthquake;48;2;22;6;reviewed;us;us
+23/04/2019 17.32;662945;-1572105;73;45;ml;;;;74;ak;ak019574uo3u;24/04/2019 03.02;69km SSW of Kobuk, Alaska;earthquake;;3;;;reviewed;ak;ak
+23/04/2019 17.22;-237862;1799588;55165;46;mb;;129;6269;67;us;us70003aq1;23/04/2019 19.56;South of the Fiji Islands;earthquake;14;108;5;120;reviewed;us;us
+23/04/2019 16.20;-247253;-1787502;38555;6;mww;;34;7558;105;us;us70003an0;24/04/2019 16.21;South of the Fiji Islands;earthquake;105;38;49;40;reviewed;us;us
+23/04/2019 12.24;335499;456313;10;43;mb;;100;1564;74;us;us70003alr;23/04/2019 15.57;23km SSE of Mandali, Iraq;earthquake;63;16;81;43;reviewed;us;us
+23/04/2019 12.16;-183813;-704331;7352;41;mb;;127;87;13;us;us70003alj;23/04/2019 15.23;17km NW of Arica, Chile;earthquake;73;39;131;16;reviewed;us;us
+23/04/2019 10.58;415486;195233;10;45;mb;;35;325;6;us;us70003akn;30/04/2019 10.07;14km WSW of Mamurras, Albania;earthquake;33;18;243;5;reviewed;us;us
+23/04/2019 10.17;-325825;-694464;12729;45;mb;;128;948;82;us;us70003akh;30/04/2019 08.49;67km WNW of Mendoza, Argentina;earthquake;69;76;125;19;reviewed;us;us
+23/04/2019 08.41;117496;1251778;563;48;mb;;113;9287;8;us;us70003ak7;23/04/2019 09.32;16km SE of Tutubigan, Philippines;earthquake;112;7;62;81;reviewed;us;us
+23/04/2019 07.37;118458;1251869;54;64;mww;;16;4761;138;us;us70003aj3;25/04/2019 14.47;13km E of Tutubigan, Philippines;earthquake;78;19;42;54;reviewed;us;us
+23/04/2019 06.52;-200376;-1730654;10;52;mb;;74;3109;147;us;us70003aix;23/04/2019 07.20;137km ESE of Pangai, Tonga;earthquake;92;18;47;150;reviewed;us;us
+23/04/2019 02.36;215653;619724;10;47;mb;;107;628;75;us;us70003ahl;26/04/2019 06.31;275km ESE of Sur, Oman;earthquake;101;19;52;111;reviewed;us;us
+23/04/2019 01.00;518205;1593311;4837;47;mb;;75;1275;63;us;us70003ah3;23/04/2019 05.41;138km SSE of Vilyuchinsk, Russia;earthquake;93;68;51;118;reviewed;us;us
+23/04/2019 00.49;310406;1314426;5043;45;mb;;136;2133;131;us;us70003ah1;23/04/2019 03.32;50km SSE of Kushima, Japan;earthquake;8;83;77;50;reviewed;us;us
+22/04/2019 23.44;503111;-1301063;10;55;mww;;138;2939;101;us;us70003afb;25/04/2019 01.23;195km WSW of Port Hardy, Canada;earthquake;7;19;28;127;reviewed;us;us
+22/04/2019 23.42;118231;1434472;2301;49;mb;;108;2237;81;us;us70003afh;23/04/2019 02.53;207km SW of Merizo Village, Guam;earthquake;63;55;83;45;reviewed;us;us
+22/04/2019 22.27;50363;-129773;3;46;Mb;54;1,296E+14;2098465;181;at;at00pqdq51;22/04/2019 23.52;170km WSW of Port Hardy, Canada;earthquake;0;0;;26;reviewed;at;at
+22/04/2019 22.15;163845;-983795;2156;54;mww;;89;1185;122;us;us70003adr;25/04/2019 21.22;9km SSE of Cuajinicuilapa, Mexico;earthquake;86;42;73;18;reviewed;us;us
+22/04/2019 20.29;-242407;-670869;15899;51;mww;;40;1627;82;us;us70003acf;22/04/2019 22.41;78km W of San Antonio de los Cobres, Argentina;earthquake;79;54;71;19;reviewed;us;us
+22/04/2019 19.45;40637;1437772;10;54;mww;;111;1453;198;us;us70003abu;27/04/2019 19.38;191km NE of Miyako, Japan;earthquake;68;19;73;18;reviewed;us;us
+22/04/2019 18.00;313676;1410631;4828;47;mb;;102;2038;91;us;us70003aal;22/04/2019 19.27;224km SSE of Hachijo-jima, Japan;earthquake;112;74;56;95;reviewed;us;us
+22/04/2019 16.49;-562731;-273787;9358;6;mww;;30;5575;58;us;us70003a91;23/04/2019 16.59;48km NNW of Visokoi Island, South Georgia and the South Sandwich Islands;earthquake;94;49;46;46;reviewed;us;us
+22/04/2019 16.20;-391604;1750261;15279;45;mb;;61;66;43;us;us70003a8t;22/04/2019 21.07;65km WNW of Waiouru, New Zealand;earthquake;79;37;27;4;reviewed;us;us
+22/04/2019 15.52;-17917;1226269;10;46;mb;;55;758;58;us;us70003a8m;22/04/2019 16.35;94km S of Luwuk, Indonesia;earthquake;67;19;122;20;reviewed;us;us
+22/04/2019 15.11;-152847;-1731061;10;49;mb;;121;1877;56;us;us70003a8h;22/04/2019 18.33;100km NE of Hihifo, Tonga;earthquake;106;19;58;92;reviewed;us;us
+22/04/2019 14.30;-175831;-1788015;53459;49;mb;;82;3003;94;us;us70003a83;22/04/2019 15.25;232km SE of Lambasa, Fiji;earthquake;107;8;103;30;reviewed;us;us
+22/04/2019 13.13;-194268;-1776604;55591;45;mb;;43;4396;102;us;us70003a6r;22/04/2019 13.31;173km NE of Ndoi Island, Fiji;earthquake;122;89;45;145;reviewed;us;us
+22/04/2019 12.19;16408;-959902;5763;43;mb;;177;2719;123;us;us70003a6e;23/04/2019 00.31;34km ENE of San Pedro Mixtepec, Mexico;earthquake;104;143;45;140;reviewed;us;us
+22/04/2019 12.19;-5425;1530479;3769;45;mb;;162;1509;55;us;us70003a6g;29/04/2019 08.02;105km S of Taron, Papua New Guinea;earthquake;11;96;109;25;reviewed;us;us
+22/04/2019 11.11;149236;1204972;20;61;mww;;17;7871;116;us;us70003a63;28/04/2019 03.43;0km ESE of Gutad, Philippines;earthquake;72;18;35;77;reviewed;us;us
+22/04/2019 08.49;-9153;1174482;10067;47;mb;;45;3327;136;us;us70003a54;22/04/2019 11.00;53km S of Batutering, Indonesia;earthquake;64;45;77;51;reviewed;us;us
+22/04/2019 06.37;-219355;1701226;10;47;mb;;74;2568;87;us;us70003a4e;24/04/2019 01.17;205km WNW of Ile Hunter, New Caledonia;earthquake;126;18;127;19;reviewed;us;us
+22/04/2019 06.27;-129287;4546;10;45;mb;;83;6289;97;us;us70003a4d;22/04/2019 07.27;24km SE of Pamandzi, Mayotte;earthquake;128;18;132;17;reviewed;us;us
+22/04/2019 05.59;97288;1263809;2568;47;mb;;90;2758;91;us;us70003a49;22/04/2019 17.35;25km ESE of General Luna, Philippines;earthquake;105;46;68;65;reviewed;us;us
+22/04/2019 04.06;-183013;-1747841;20457;46;mb;;94;4667;78;us;us70003a3x;22/04/2019 04.28;92km WNW of Neiafu, Tonga;earthquake;66;85;72;58;reviewed;us;us
+22/04/2019 03.04;-32515;-803184;5663;48;mb;;142;5286;111;us;us70003a3g;22/04/2019 05.32;26km NNW of Aguas Verdes, Peru;earthquake;97;65;4;193;reviewed;us;us
+22/04/2019 02.47;430978;1336656;45739;44;mb;;24;1641;81;us;us70003a3a;22/04/2019 03.06;29km NW of Preobrazheniye, Russia;earthquake;96;77;3;331;reviewed;us;us
+22/04/2019 00.58;-6978;1506057;10;47;mb;;148;3173;49;us;us70003a2p;22/04/2019 01.09;143km SE of Kandrian, Papua New Guinea;earthquake;123;2;138;16;reviewed;us;us
+22/04/2019 00.10;139481;1446337;18724;45;mb;;101;423;51;us;us70003a2e;22/04/2019 00.30;52km NNW of Dededo Village, Guam;earthquake;127;43;92;35;reviewed;us;us
+21/04/2019 23.09;-46191;1530385;5617;48;mb;;120;97;87;us;us70003a1p;21/04/2019 23.24;16km S of Taron, Papua New Guinea;earthquake;47;77;116;23;reviewed;us;us
+21/04/2019 18.31;-243449;-670314;16399;5;mww;;38;174;7;us;us700039zu;22/04/2019 18.21;73km W of San Antonio de los Cobres, Argentina;earthquake;79;63;73;18;reviewed;us;us
+21/04/2019 16.18;366012;709097;20423;42;mb;;76;1104;57;us;us700039zl;21/04/2019 17.15;30km SSE of Jarm, Afghanistan;earthquake;76;69;96;30;reviewed;us;us
+21/04/2019 13.46;-323425;-703556;12461;41;mb;;89;451;51;us;us700039yx;21/04/2019 14.11;57km NE of San Felipe, Chile;earthquake;76;89;233;5;reviewed;us;us
+21/04/2019 13.16;199866;1214174;10;46;mb;;112;2834;48;us;us700039yt;22/04/2019 17.59;61km SW of Sabtang, Philippines;earthquake;85;19;63;74;reviewed;us;us
+21/04/2019 12.00;-35766;-719526;789;49;mwr;;104;434;65;us;us700039yk;21/04/2019 18.56;25km SW of San Javier, Chile;earthquake;67;49;43;53;reviewed;us;us
+21/04/2019 11.24;-221175;1749051;10;54;mww;;125;5261;84;us;us700039y8;22/04/2019 17.55;52km SE of Ceva-i-Ra, Fiji;earthquake;6;19;73;18;reviewed;us;us
+21/04/2019 11.24;453461;1498475;8296;44;mb;;181;5181;62;us;us700039ya;21/04/2019 11.51;154km E of Kuril'sk, Russia;earthquake;133;111;98;30;reviewed;us;us
+21/04/2019 11.14;287035;1388683;4891;41;mb;;68;3343;62;us;us700039y4;21/04/2019 11.31;Bonin Islands, Japan region;earthquake;132;10;7;56;reviewed;us;us
+21/04/2019 10.39;248801;1282793;10;47;mb;;73;1947;73;us;us700039xw;21/04/2019 11.08;150km SSE of Itoman, Japan;earthquake;72;19;63;76;reviewed;us;us
+21/04/2019 10.21;-34142;1273025;7834;49;mb;;57;4158;72;us;us700039xu;21/04/2019 10.39;28km SE of Namlea, Indonesia;earthquake;75;75;45;158;reviewed;us;us
+21/04/2019 09.27;-181302;-1779779;61622;48;mb;;53;3798;128;us;us700039xl;21/04/2019 09.45;289km NNE of Ndoi Island, Fiji;earthquake;92;81;31;328;reviewed;us;us
+21/04/2019 08.31;515208;-1782632;6064;49;mww;;137;766;115;us;us700039xa;21/04/2019 21.29;41km SSW of Tanaga Volcano, Alaska;earthquake;69;61;69;20;reviewed;us;us
+21/04/2019 07.53;-376942;1764536;22699;46;mb;;117;755;107;us;us700039wz;21/04/2019 10.56;8km N of Maketu, New Zealand;earthquake;83;53;109;25;reviewed;us;us
+21/04/2019 07.09;-165447;-1771961;2242;49;mb;;123;2396;11;us;us700039wm;21/04/2019 07.48;269km SSE of Sigave, Wallis and Futuna;earthquake;58;63;58;94;reviewed;us;us
+21/04/2019 06.12;-95526;1096003;10;48;mb;;115;1867;75;us;us700039vu;21/04/2019 07.11;192km SSW of Bambanglipuro, Indonesia;earthquake;88;19;154;13;reviewed;us;us
+21/04/2019 06.02;392255;1404507;1371;45;mb;;116;138;78;us;us700039vl;21/04/2019 06.21;7km NNW of Yuzawa, Japan;earthquake;76;79;4;187;reviewed;us;us
+21/04/2019 03.38;54763;1647241;10;4;mb;;157;3993;76;us;us700039uh;21/04/2019 03.52;94km WSW of Nikol'skoye, Russia;earthquake;153;2;63;69;reviewed;us;us
+21/04/2019 03.10;-72737;1240192;55488;46;mb;;29;2223;74;us;us700039u2;21/04/2019 03.39;196km NE of Palue, Indonesia;earthquake;54;65;47;137;reviewed;us;us
+21/04/2019 02.50;547671;1647505;10;42;mb;;172;4009;7;us;us700039tt;21/04/2019 03.10;92km WSW of Nikol'skoye, Russia;earthquake;72;2;81;43;reviewed;us;us
+21/04/2019 01.23;-309412;-71442;4878;43;mb;;83;314;102;us;us700039sw;21/04/2019 09.26;44km SSW of Ovalle, Chile;earthquake;5;69;217;6;reviewed;us;us
+21/04/2019 00.46;548963;1646367;10;48;mb;;134;4003;61;us;us700039sn;21/04/2019 01.09;92km WSW of Nikol'skoye, Russia;earthquake;95;17;4;188;reviewed;us;us
+21/04/2019 00.34;548743;1646485;10;53;mww;;71;3999;85;us;us700039sj;22/04/2019 18.10;92km WSW of Nikol'skoye, Russia;earthquake;73;11;73;18;reviewed;us;us
+21/04/2019 00.12;547352;1647625;10;48;mb;;133;4003;99;us;us700039s4;21/04/2019 00.31;93km WSW of Nikol'skoye, Russia;earthquake;92;19;39;199;reviewed;us;us
+20/04/2019 23.40;13947;1282565;7893;44;mb;;107;1083;73;us;us700039rs;21/04/2019 00.03;46km SE of Tobelo, Indonesia;earthquake;82;85;114;22;reviewed;us;us
+20/04/2019 22.43;470134;1456673;36724;42;mb;;132;199;76;us;us700039r2;20/04/2019 23.51;220km E of Dolinsk, Russia;earthquake;98;45;57;86;reviewed;us;us
+20/04/2019 21.09;299165;1304203;5649;46;mb;;68;3222;53;us;us700039pq;21/04/2019 01.15;106km SSW of Nishinoomote, Japan;earthquake;78;79;74;54;reviewed;us;us
+20/04/2019 17.27;284928;1393357;47975;44;mb;;85;2882;81;us;us700039nc;20/04/2019 17.40;Bonin Islands, Japan region;earthquake;5;104;7;60;reviewed;us;us
+20/04/2019 16.41;313561;-1156707;10;45;mb;;156;688;135;us;us700039mz;24/04/2019 20.10;67km NNE of Camalu, Mexico;earthquake;51;2;85;41;reviewed;us;us
+20/04/2019 15.56;-20074;-1781091;61713;48;mb;;87;4309;77;us;us700039mp;20/04/2019 16.10;88km NE of Ndoi Island, Fiji;earthquake;123;96;95;34;reviewed;us;us
+20/04/2019 09.45;75674;943167;10;46;mb;;158;3497;66;us;us700039kp;20/04/2019 10.35;118km ESE of Mohean, India;earthquake;82;19;116;22;reviewed;us;us
+20/04/2019 08.52;-255715;1795396;51742;49;mb;;52;791;75;us;us700039jy;20/04/2019 09.10;South of the Fiji Islands;earthquake;115;84;7;65;reviewed;us;us
+20/04/2019 08.06;-153186;-1732443;10;45;mb;;109;1994;57;us;us700039jl;20/04/2019 08.34;88km NE of Hihifo, Tonga;earthquake;108;19;88;38;reviewed;us;us
+20/04/2019 05.51;-211764;-687757;12393;45;mb;;63;677;92;us;us700039i8;20/04/2019 06.20;143km N of Calama, Chile;earthquake;54;62;128;18;reviewed;us;us
+20/04/2019 05.48;-102981;1612079;7952;5;mb;;63;1507;78;us;us700039i9;20/04/2019 06.07;79km WNW of Kirakira, Solomon Islands;earthquake;91;67;38;218;reviewed;us;us
+20/04/2019 04.41;272528;558155;10;47;mb;;55;2324;77;us;us700039hi;20/04/2019 05.05;46km W of Bandar 'Abbas, Iran;earthquake;79;19;49;127;reviewed;us;us
+20/04/2019 04.29;-3751;-951029;10;45;mb;;132;17266;89;us;us700039h6;20/04/2019 04.53;Southeast of Easter Island;earthquake;139;19;85;41;reviewed;us;us
+20/04/2019 03.45;-324999;1796453;18797;43;mb;;191;5168;95;us;us700039gz;24/04/2019 07.45;181km SW of L'Esperance Rock, New Zealand;earthquake;102;114;217;6;reviewed;us;us
+20/04/2019 03.04;-58238;154406;39839;49;mb;;26;276;87;us;us700039g0;20/04/2019 03.25;131km WNW of Panguna, Papua New Guinea;earthquake;108;55;42;177;reviewed;us;us
+20/04/2019 02.55;-19533;1225877;10;5;mb;;54;923;65;us;us700039ft;20/04/2019 05.46;112km SSW of Luwuk, Indonesia;earthquake;37;19;129;19;reviewed;us;us
+20/04/2019 02.00;-3197;-71826;2435;41;mb;;174;74;68;us;us700039fc;20/04/2019 05.47;73km WSW of Illapel, Chile;earthquake;43;77;213;6;reviewed;us;us
+20/04/2019 01.02;-183864;-1776611;43615;49;mb;;22;4079;8;us;us700039eb;20/04/2019 05.52;273km NNE of Ndoi Island, Fiji;earthquake;98;62;28;412;reviewed;us;us
+20/04/2019 00.12;-85995;-801308;3404;46;mb;;200;2253;86;us;us70003ck1;27/04/2019 23.38;121km SW of Santiago de Cao, Peru;earthquake;99;79;128;18;reviewed;us;us
+20/04/2019 00.02;-68349;1297269;17875;46;mb;;130;1931;135;us;us70003cjy;27/04/2019 23.50;214km NW of Saumlaki, Indonesia;earthquake;97;163;272;4;reviewed;us;us
+19/04/2019 23.37;-203031;-691154;9685;48;mww;;41;165;75;us;us700039cp;20/04/2019 18.19;107km E of Iquique, Chile;earthquake;43;45;98;10;reviewed;us;us
+19/04/2019 23.21;-256982;-1796232;48131;46;mb;;132;8203;73;us;us70003cjx;28/04/2019 00.10;South of the Fiji Islands;earthquake;129;154;105;27;reviewed;us;us
+19/04/2019 21.43;141296;-922173;4991;48;mb;;128;64;92;us;us700039as;20/04/2019 17.07;37km WSW of Champerico, Guatemala;earthquake;64;57;33;291;reviewed;us;us
+19/04/2019 16.38;507676;1562211;11407;45;mb;;170;2516;114;us;us7000396l;19/04/2019 22.02;11km NE of Severo-Kuril'sk, Russia;earthquake;129;55;51;115;reviewed;us;us
+19/04/2019 15.36;118396;-870098;5252;49;mww;;146;723;11;us;us70003965;20/04/2019 00.11;54km W of Masachapa, Nicaragua;earthquake;59;82;69;20;reviewed;us;us
+19/04/2019 15.27;-70686;156322;10139;45;mb;;115;4291;114;us;us70003966;19/04/2019 21.56;53km SSW of Chirovanga, Solomon Islands;earthquake;56;102;144;14;reviewed;us;us
+19/04/2019 14.29;-115403;1162652;10;49;mb;;60;3693;95;us;us7000395k;19/04/2019 15.18;292km S of Kute, Indonesia;earthquake;77;19;75;56;reviewed;us;us
+19/04/2019 13.43;14401;-927305;35;42;mb;;175;101;107;us;us7000395h;26/04/2019 13.51;48km SW of Puerto Madero, Mexico;earthquake;87;2;96;30;reviewed;us;us
+19/04/2019 09.49;-425621;1737176;1251;43;mb;;77;196;44;us;us7000393q;19/04/2019 12.23;17km S of Kaikoura, New Zealand;earthquake;33;57;238;5;reviewed;us;us
+19/04/2019 09.29;546;1268577;5406;52;mww;;94;2042;66;us;us7000393h;22/04/2019 18.24;124km SE of Pondaguitan, Philippines;earthquake;78;58;71;19;reviewed;us;us
+19/04/2019 09.05;425848;1415885;12969;46;mb;;62;1295;65;us;us70003933;19/04/2019 09.21;5km SSW of Tomakomai, Japan;earthquake;76;72;58;89;reviewed;us;us
+19/04/2019 06.39;-192962;-1772579;58078;42;mb;;135;4709;62;us;us70003cjg;27/04/2019 02.46;212km NE of Ndoi Island, Fiji;earthquake;14;173;167;10;reviewed;us;us
+19/04/2019 06.15;433568;1463317;4623;47;mb;;135;2697;62;us;us7000391w;19/04/2019 06.35;58km SSW of Shikotan, Russia;earthquake;34;76;48;132;reviewed;us;us
+19/04/2019 05.32;-12825;453416;10;43;mb;;102;5982;114;us;us70003cjf;27/04/2019 02.15;7km ESE of Pamandzi, Mayotte;earthquake;8;19;148;13;reviewed;us;us
+19/04/2019 04.16;378538;1295338;10;44;mb;;49;1339;99;us;us70003cje;27/04/2019 01.58;50km NE of Tonghae, South Korea;earthquake;6;19;13;17;reviewed;us;us
+19/04/2019 03.30;-60247;1546902;20916;42;mb;;75;8182;66;us;us70003cjd;27/04/2019 01.34;93km WNW of Panguna, Papua New Guinea;earthquake;126;8;159;11;reviewed;us;us
+19/04/2019 01.58;-40778;1418796;8799;45;mb;;140;1946;126;us;us70003cip;28/04/2019 00.34;108km W of Ambunti, Papua New Guinea;earthquake;113;71;15;13;reviewed;us;us
+19/04/2019 01.56;-597334;-251322;10;47;mb;;71;8254;113;us;us70003cin;28/04/2019 00.48;110km SE of Bristol Island, South Sandwich Islands;earthquake;117;19;82;45;reviewed;us;us
+19/04/2019 01.56;117584;-875903;10;44;mb;;164;1086;81;us;us70003901;20/04/2019 05.59;92km SSW of Corinto, Nicaragua;earthquake;47;2;107;25;reviewed;us;us
+18/04/2019 23.57;76181;943675;10;49;mww;;45;3493;86;us;us700038ya;20/04/2019 06.30;122km ESE of Mohean, India;earthquake;73;18;69;20;reviewed;us;us
+18/04/2019 23.52;75912;943706;10;5;mww;;47;3473;97;us;us700038y8;20/04/2019 06.39;123km ESE of Mohean, India;earthquake;72;18;73;18;reviewed;us;us
+18/04/2019 23.31;16751;125211;17005;45;mb;;90;2334;44;us;us700038xw;20/04/2019 06.56;25km N of Bitung, Indonesia;earthquake;79;53;108;25;reviewed;us;us
+18/04/2019 23.05;-59732;15496;17905;49;mb;;194;33;53;us;us700038wx;20/04/2019 06.42;69km WNW of Arawa, Papua New Guinea;earthquake;12;84;96;34;reviewed;us;us
+18/04/2019 20.54;-40744;1520975;20457;48;mb;;90;133;7;us;us700038si;18/04/2019 21.27;15km NNW of Rabaul, Papua New Guinea;earthquake;122;45;91;37;reviewed;us;us
+18/04/2019 18.32;365164;703222;19873;43;mb;;63;1473;107;us;us700038pw;19/04/2019 15.52;42km E of Farkhar, Afghanistan;earthquake;57;63;75;51;reviewed;us;us
+18/04/2019 16.46;-510555;1394904;10;65;mww;;68;9742;171;us;us700038m1;19/04/2019 16.47;Western Indian-Antarctic Ridge;earthquake;102;19;73;18;reviewed;us;us
+18/04/2019 11.27;261133;1294956;10;49;mb;;53;1311;85;us;us700038fr;18/04/2019 12.26;160km ESE of Nago, Japan;earthquake;5;19;71;61;reviewed;us;us
+18/04/2019 11.25;248733;1282531;2619;46;mb;;88;1954;91;us;us700038fs;24/04/2019 15.12;150km SSE of Itoman, Japan;earthquake;81;56;9;37;reviewed;us;us
+18/04/2019 10.57;-177299;-1781377;52819;44;mb;;72;3402;62;us;us700038f7;18/04/2019 11.20;Fiji region;earthquake;124;83;61;77;reviewed;us;us
+18/04/2019 10.18;-7808;274907;10;45;mb;;79;3252;125;us;us700038ew;18/04/2019 10.48;193km WNW of Sake, Democratic Republic of the Congo;earthquake;101;19;116;22;reviewed;us;us
+18/04/2019 10.09;341237;1375206;33675;41;mb;;73;778;139;us;us700038ec;18/04/2019 10.34;64km SSE of Tahara, Japan;earthquake;69;63;74;50;reviewed;us;us
+18/04/2019 07.01;239888;1216934;20;61;mww;;34;205;118;us;us700038c1;28/04/2019 04.26;9km E of Hualian, Taiwan;earthquake;48;18;65;23;reviewed;us;us
+18/04/2019 06.06;-293707;-716087;482;56;mww;;37;634;96;us;us700038b8;21/04/2019 12.24;68km NNW of La Serena, Chile;earthquake;4;31;68;21;reviewed;us;us
+18/04/2019 03.38;511693;-1781545;10;4;mb;;313;927;105;us;us700038a4;18/04/2019 14.39;67km E of Amatignak Island, Alaska;earthquake;128;2;55;89;reviewed;us;us
+18/04/2019 01.50;-94968;1508922;10;47;mb;;152;3683;45;us;us7000388u;28/04/2019 00.53;106km NNE of Alotau, Papua New Guinea;earthquake;125;19;96;33;reviewed;us;us
+18/04/2019 01.26;-95984;1508623;1003;52;mww;;42;3657;86;us;us7000388e;18/04/2019 01.44;94km NNE of Alotau, Papua New Guinea;earthquake;75;46;75;17;reviewed;us;us
+18/04/2019 01.21;-95507;1510451;10;45;mb;;160;3835;48;us;us70003cdj;27/04/2019 07.23;110km NE of Alotau, Papua New Guinea;earthquake;139;19;144;14;reviewed;us;us
+18/04/2019 01.07;-96208;1510331;10;49;mb;;153;3826;62;us;us70003887;27/04/2019 07.01;103km NE of Alotau, Papua New Guinea;earthquake;97;19;77;53;reviewed;us;us
+17/04/2019 23.50;260762;1294306;10;42;mb;;78;1284;103;us;us70003cdi;27/04/2019 06.36;155km ESE of Nago, Japan;earthquake;45;19;199;7;reviewed;us;us
+17/04/2019 23.16;32207;928487;10;43;mb;;162;4548;62;us;us70003cdc;27/04/2019 06.21;Off the west coast of northern Sumatra;earthquake;99;2;188;8;reviewed;us;us
+17/04/2019 23.15;-95284;1509285;183;49;mb;;87;372;61;us;us7000385a;27/04/2019 06.09;105km NNE of Alotau, Papua New Guinea;earthquake;83;5;8;49;reviewed;us;us
+17/04/2019 23.07;427884;1460562;3987;45;mb;;135;2282;68;us;us7000384v;27/04/2019 05.41;71km SSE of Nemuro, Japan;earthquake;65;66;69;61;reviewed;us;us
+17/04/2019 20.35;36588;712917;14748;42;mb;;100;985;56;us;us700037zm;17/04/2019 21.17;24km WSW of Ashkasham, Afghanistan;earthquake;58;72;113;22;reviewed;us;us
+17/04/2019 17.15;-94119;150897;10;49;mb;;79;3687;69;us;us700037u0;30/04/2019 05.03;114km NNE of Alotau, Papua New Guinea;earthquake;106;14;96;34;reviewed;us;us
+17/04/2019 17.01;-50917;-781349;4682;49;mww;;65;2046;7;us;us700037tm;29/04/2019 04.18;66km NNE of La Peca, Peru;earthquake;73;6;78;16;reviewed;us;us
+17/04/2019 15.36;-70435;1295314;16747;43;mb;;52;1985;61;us;us700037se;17/04/2019 15.55;221km WNW of Saumlaki, Indonesia;earthquake;84;69;113;25;reviewed;us;us
+17/04/2019 11.55;39475;-826429;10;51;mww;;73;4443;147;us;us700037pg;17/04/2019 19.40;South of Panama;earthquake;76;19;69;20;reviewed;us;us
+17/04/2019 11.13;-22042;-809997;10;44;mb;;99;176;65;us;us700037mu;17/04/2019 11.58;3km WNW of Salinas, Ecuador;earthquake;53;19;12;20;reviewed;us;us
+17/04/2019 10.21;-9485;1509717;3717;49;mb;;80;3761;14;us;us700037m2;17/04/2019 10.56;111km NNE of Alotau, Papua New Guinea;earthquake;95;72;61;128;reviewed;us;us
+17/04/2019 07.03;-317203;1797349;33051;5;mb;;69;5945;119;us;us700037l3;17/04/2019 07.29;133km WSW of L'Esperance Rock, New Zealand;earthquake;10;54;42;182;reviewed;us;us
+17/04/2019 04.19;191097;121396;2339;46;mb;;138;3701;93;us;us700037ju;29/04/2019 03.47;60km NNE of Namuac, Philippines;earthquake;111;59;81;45;reviewed;us;us
+17/04/2019 01.12;8801;1201443;272;46;mb;;51;677;85;us;us700037hr;29/04/2019 01.15;15km WSW of Ogotua, Indonesia;earthquake;57;52;95;33;reviewed;us;us
+17/04/2019 01.04;-57072;1483825;13109;47;mb;;23;3778;105;us;us700037hk;29/04/2019 01.13;114km NNE of Finschhafen, Papua New Guinea;earthquake;75;4;45;150;reviewed;us;us
+17/04/2019 00.43;308446;572132;10;4;mb;;81;5521;28;us;us70003c07;27/04/2019 04.57;60km SE of Ravar, Iran;earthquake;97;2;15;12;reviewed;us;us
+17/04/2019 00.37;526305;-320527;10;43;mb;;127;1547;61;us;us70003c08;27/04/2019 04.52;Reykjanes Ridge;earthquake;137;19;119;20;reviewed;us;us
+17/04/2019 00.17;361968;68992;3504;44;mb;;54;153;67;us;us700037gr;27/04/2019 04.15;19km NW of Nahrin, Afghanistan;earthquake;45;8;104;27;reviewed;us;us
+17/04/2019 00.06;-231736;-668216;21016;42;mb;;72;1269;102;us;us70003c04;27/04/2019 03.57;115km W of El Aguilar, Argentina;earthquake;93;10;199;7;reviewed;us;us
+16/04/2019 23.59;-50252;1340842;2844;45;mb;;66;278;97;us;us700037gb;27/04/2019 03.38;83km N of Dobo, Indonesia;earthquake;63;54;14;15;reviewed;us;us
+16/04/2019 23.31;509211;-1792901;35;42;mb;;216;1631;123;us;us700037fm;17/04/2019 00.54;40km SSW of Amatignak Island, Alaska;earthquake;94;2;59;80;reviewed;us;us
+16/04/2019 22.18;-84047;1168251;4067;47;mb;;56;2645;108;us;us700037db;22/04/2019 17.41;15km E of Sambelia, Indonesia;earthquake;77;69;79;48;reviewed;us;us
+16/04/2019 20.05;-61288;1490543;5718;49;mb;;38;3646;96;us;us7000379v;17/04/2019 17.45;55km W of Kandrian, Papua New Guinea;earthquake;66;53;46;146;reviewed;us;us
+16/04/2019 19.01;-282268;-631375;59382;5;mb;;20;5497;79;us;us7000377f;17/04/2019 19.37;39km NW of Anatuya, Argentina;earthquake;85;51;27;439;reviewed;us;us
+16/04/2019 18.59;-587395;-236177;10;52;mww;;57;8397;71;us;us7000377g;28/04/2019 18.19;170km E of Bristol Island, South Sandwich Islands;earthquake;102;19;8;15;reviewed;us;us
+16/04/2019 18.48;-322414;-1796268;431;47;mb;;80;15746;91;us;us70003bzt;28/04/2019 18.10;112km SW of L'Esperance Rock, New Zealand;earthquake;117;53;13;18;reviewed;us;us
+16/04/2019 18.44;-17761;1226285;10;44;mb;;101;743;4;us;us70003c00;28/04/2019 18.01;92km S of Luwuk, Indonesia;earthquake;65;19;155;12;reviewed;us;us
+16/04/2019 18.42;-321928;-1794498;10;49;mb;;107;14563;49;us;us70003bzz;28/04/2019 17.50;99km SSW of L'Esperance Rock, New Zealand;earthquake;135;16;132;23;reviewed;us;us
+16/04/2019 18.39;-323505;-1795079;10;43;mb;;237;12824;22;us;us70003bzs;28/04/2019 17.05;116km SSW of L'Esperance Rock, New Zealand;earthquake;151;2;217;8;reviewed;us;us
+16/04/2019 18.05;-337094;1795256;13848;45;mb;;112;397;53;us;us70003c01;28/04/2019 18.31;292km SSW of L'Esperance Rock, New Zealand;earthquake;106;109;192;11;reviewed;us;us
+16/04/2019 18.01;-323696;-1795761;876;53;mww;;71;5464;58;us;us7000376a;28/04/2019 15.59;121km SSW of L'Esperance Rock, New Zealand;earthquake;81;39;52;35;reviewed;us;us
+16/04/2019 17.44;-569;1224696;25926;46;mb;;53;1023;83;us;us7000375u;28/04/2019 15.50;66km SSE of Tilamuta, Indonesia;earthquake;8;12;54;102;reviewed;us;us
+16/04/2019 17.22;538767;160423;7247;48;mb;;160;1362;71;us;us7000375a;28/04/2019 15.48;149km NE of Petropavlovsk-Kamchatskiy, Russia;earthquake;113;89;3;333;reviewed;us;us
+16/04/2019 17.18;-48599;1307571;6181;42;mb;;110;2435;4;us;us70003bzr;28/04/2019 15.46;238km WNW of Tual, Indonesia;earthquake;89;114;159;11;reviewed;us;us
+16/04/2019 17.02;-61375;1475632;7793;45;mb;;80;327;36;us;us70003750;28/04/2019 15.27;61km NNW of Finschhafen, Papua New Guinea;earthquake;88;98;124;19;reviewed;us;us
+16/04/2019 16.47;-175619;1672294;10;49;mb;;69;4546;95;us;us7000374t;28/04/2019 15.26;117km W of Port-Vila, Vanuatu;earthquake;56;19;119;25;reviewed;us;us
+16/04/2019 15.26;-323369;-1795803;10;49;mb;;183;6724;28;us;us70003bzm;28/04/2019 18.20;119km SSW of L'Esperance Rock, New Zealand;earthquake;131;19;197;13;reviewed;us;us
+16/04/2019 12.42;342211;1367852;35691;41;mb;;37;1143;54;us;us7000370n;23/04/2019 12.38;29km SSW of Toba, Japan;earthquake;8;56;65;64;reviewed;us;us
+16/04/2019 12.29;192985;-620891;10;44;mb;;155;1554;61;us;us7000370c;16/04/2019 12.55;155km NE of Stoney Ground, Anguilla;earthquake;69;2;203;7;reviewed;us;us
+16/04/2019 11.39;-310266;-178818;10;57;mww;;58;6939;76;us;us700036yw;17/04/2019 11.41;45km N of L'Esperance Rock, New Zealand;earthquake;10;18;73;18;reviewed;us;us
+16/04/2019 11.22;-311808;-1790887;10;58;mww;;71;6719;147;us;us700036yi;17/04/2019 11.24;33km NNW of L'Esperance Rock, New Zealand;earthquake;11;19;73;18;reviewed;us;us
+16/04/2019 11.19;271088;1284702;7463;45;mb;;127;324;97;us;us700036ym;23/04/2019 10.08;75km NE of Nago, Japan;earthquake;121;75;64;71;reviewed;us;us
+16/04/2019 09.30;-353067;-155159;10;57;mb;;53;3129;107;us;us700036we;19/04/2019 16.45;Tristan da Cunha region;earthquake;98;19;55;119;reviewed;us;us
+16/04/2019 07.07;663091;-1572352;9;47;ml;;;;64;ak;ak0194vdzjyo;16/04/2019 18.27;68km SSW of Kobuk, Alaska;earthquake;;2;;;reviewed;ak;ak
+16/04/2019 06.04;145851;-90506;10;45;mb;;141;1124;93;us;us700036ss;18/04/2019 21.22;2km NNW of Santa Catarina Pinula, Guatemala;earthquake;68;19;66;66;reviewed;us;us
+16/04/2019 05.19;-80991;-716744;58395;47;mb;;57;1084;105;us;us700036s5;16/04/2019 05.41;100km W of Tarauaca, Brazil;earthquake;106;83;28;394;reviewed;us;us
+16/04/2019 03.04;375601;206793;1232;43;mwr;;130;1063;109;us;us700036qt;17/04/2019 03.33;22km SSW of Mouzaki, Greece;earthquake;44;61;83;14;reviewed;us;us
+16/04/2019 02.54;-278289;-714598;348;46;mwr;;111;506;104;us;us700036qr;20/04/2019 06.43;107km NW of Vallenar, Chile;earthquake;45;64;43;52;reviewed;us;us
+16/04/2019 02.47;20887;-845755;10;47;mb;;98;5851;78;us;us700036qn;20/04/2019 06.54;Off the coast of Central America;earthquake;83;19;31;307;reviewed;us;us
+16/04/2019 01.42;-104031;1613657;35;53;mb;;29;1694;58;us;us700036pl;16/04/2019 06.20;61km W of Kirakira, Solomon Islands;earthquake;84;19;3;369;reviewed;us;us
+16/04/2019 01.41;-513422;1391491;10;5;mb;;222;101;44;us;us70003bea;26/04/2019 06.06;Western Indian-Antarctic Ridge;earthquake;147;2;179;10;reviewed;us;us
+16/04/2019 01.26;-519374;1386906;10;5;mb;;71;14273;56;us;us70003be9;26/04/2019 05.56;Western Indian-Antarctic Ridge;earthquake;7;19;133;18;reviewed;us;us
+16/04/2019 00.25;-18767;-1751702;22018;42;mb;;120;4972;76;us;us70003be2;26/04/2019 03.46;125km W of Neiafu, Tonga;earthquake;107;125;146;13;reviewed;us;us
+15/04/2019 23.52;362474;229395;3594;42;mb;;171;1236;119;us;us70003bdz;26/04/2019 01.36;49km S of Gefyra, Greece;earthquake;81;114;147;13;reviewed;us;us
+15/04/2019 18.55;-59343;1304571;12341;46;mb;;127;2199;101;us;us70003bdr;24/04/2019 21.11;242km NNW of Saumlaki, Indonesia;earthquake;158;242;545;1;reviewed;us;us
+15/04/2019 18.48;109311;1253722;11448;42;mb;;132;8886;64;us;us70003bdq;24/04/2019 21.01;19km S of Balangiga, Philippines;earthquake;79;9;141;14;reviewed;us;us
+15/04/2019 18.26;13165;1210624;35;45;mb;;76;346;95;us;us70003bdy;24/04/2019 20.46;41km NE of Tolitoli, Indonesia;earthquake;71;2;15;13;reviewed;us;us
+15/04/2019 17.32;-82506;1211503;19868;4;mb;;82;1141;113;us;us70003bdl;24/04/2019 20.25;21km N of Tungguwaneng, Indonesia;earthquake;115;94;183;8;reviewed;us;us
+15/04/2019 17.26;239305;1216075;1657;44;mb;;52;242;61;us;us70003bdm;24/04/2019 20.13;5km S of Hualian, Taiwan;earthquake;38;13;112;23;reviewed;us;us
+15/04/2019 17.22;262283;129453;467;45;mb;;72;1218;64;us;us70003bdn;24/04/2019 19.09;152km ESE of Nago, Japan;earthquake;69;49;94;33;reviewed;us;us
+15/04/2019 16.30;382302;1404613;10161;45;mb;;80;444;8;us;us700036dd;24/04/2019 18.40;8km E of Yamagata-shi, Japan;earthquake;7;72;57;90;reviewed;us;us
+15/04/2019 15.49;174589;1457315;19368;44;mb;;118;2206;5;us;us70003bdj;24/04/2019 18.11;72km S of Pagan, Northern Mariana Islands;earthquake;98;78;81;44;reviewed;us;us
+15/04/2019 15.33;124345;935064;10587;42;mb;;106;1075;69;us;us70003bdi;24/04/2019 17.48;118km NE of Port Blair, India;earthquake;95;103;215;7;reviewed;us;us
+15/04/2019 13.54;388148333;-1227991667;124;412;mw;79;19;749;9;nc;nc73166265;24/04/2019 09.53;6km NW of The Geysers, CA;earthquake;9;14;;6;reviewed;nc;nc
+15/04/2019 11.49;-58894;1474459;8521;45;mb;;113;3504;54;us;us700036a5;19/04/2019 16.17;91km NNW of Finschhafen, Papua New Guinea;earthquake;85;117;121;20;reviewed;us;us
+15/04/2019 10.18;-207612;-1785826;57273;43;mb;;100;437;69;us;us70003698;22/04/2019 09.15;17km SE of Ndoi Island, Fiji;earthquake;136;72;55;93;reviewed;us;us
+15/04/2019 09.48;534036;1660899;10;4;mb;;173;4488;83;us;us7000368n;15/04/2019 11.27;199km S of Nikol'skoye, Russia;earthquake;159;2;73;50;reviewed;us;us
+15/04/2019 08.49;-90732;1205003;11331;46;mb;;70;1771;116;us;us7000367t;15/04/2019 11.15;30km SSE of Lamba, Indonesia;earthquake;75;65;83;44;reviewed;us;us
+15/04/2019 08.34;34548;455848;10;44;mb;;49;578;77;us;us7000367n;15/04/2019 16.54;27km WNW of Sarpol-e Zahab, Iran;earthquake;64;19;85;40;reviewed;us;us
+15/04/2019 07.32;522201;1571603;14102;46;mb;;121;948;55;us;us7000366l;15/04/2019 16.41;91km NNE of Ozernovskiy, Russia;earthquake;57;58;31;315;reviewed;us;us
+15/04/2019 07.15;337923;-381432;10;49;mb;;76;21339;83;us;us7000366b;15/04/2019 07.43;Northern Mid-Atlantic Ridge;earthquake;11;19;31;323;reviewed;us;us
+15/04/2019 06.48;-20126;1392048;1776;44;mb;;39;1579;112;us;us70003660;26/04/2019 01.06;167km WNW of Abepura, Indonesia;earthquake;6;37;96;31;reviewed;us;us
+15/04/2019 06.41;386972;380712;10;45;mb;;34;1667;8;us;us7000365s;26/04/2019 00.45;14km NW of Yazihan, Turkey;earthquake;53;19;68;63;reviewed;us;us
+15/04/2019 06.37;-128256;455218;10;44;mb;;121;5933;105;us;us70003bd6;25/04/2019 06.32;26km E of Pamandzi, Mayotte;earthquake;122;19;19;8;reviewed;us;us
+15/04/2019 05.11;-30208;-75481;14002;45;mb;;79;4391;107;us;us70003650;25/04/2019 06.08;241km NE of Barranca, Peru;earthquake;76;59;45;146;reviewed;us;us
+15/04/2019 05.09;-18195;1228023;10;44;mb;;124;773;132;us;us70003bd5;25/04/2019 06.05;95km S of Luwuk, Indonesia;earthquake;71;19;179;9;reviewed;us;us
+15/04/2019 04.38;296163;1305912;3983;43;mb;;137;3443;81;us;us70003bd3;25/04/2019 05.03;129km SSW of Nishinoomote, Japan;earthquake;101;83;169;10;reviewed;us;us
+15/04/2019 04.11;-73969;1200254;43021;42;mb;;114;2382;109;us;us70003bd1;25/04/2019 03.50;103km NNW of Nggilat, Indonesia;earthquake;7;96;142;14;reviewed;us;us
+15/04/2019 03.39;227481;934162;5621;46;mb;;67;199;68;us;us7000364c;25/04/2019 01.28;23km WNW of Hakha, Burma;earthquake;69;66;53;109;reviewed;us;us
+15/04/2019 03.33;193019;1209934;10;51;mww;;112;3499;112;us;us7000364b;25/04/2019 01.00;77km N of Claveria, Philippines;earthquake;69;15;73;18;reviewed;us;us
+15/04/2019 00.42;296463;814054;2908;4;mb;;178;5033;96;us;us7000362n;15/04/2019 01.28;62km NE of Dipayal, Nepal;earthquake;134;7;233;5;reviewed;us;us
+15/04/2019 00.05;-209137;-1784007;57319;45;mb;;94;4598;71;us;us7000361y;15/04/2019 06.03;42km SE of Ndoi Island, Fiji;earthquake;11;58;75;52;reviewed;us;us
+14/04/2019 23.23;450613;1498233;35;45;mb;;159;5249;61;us;us7000361d;14/04/2019 23.48;153km E of Kuril'sk, Russia;earthquake;102;2;6;83;reviewed;us;us
+14/04/2019 22.28;424592;1447935;4556;5;mww;;144;1293;9;us;us7000360n;14/04/2019 22.44;66km SSE of Kushiro, Japan;earthquake;61;75;75;17;reviewed;us;us
+14/04/2019 21.59;378842;57259;10;42;mb;;169;8615;73;us;us70003609;15/04/2019 12.59;45km N of Bojnurd, Iran;earthquake;5;2;137;15;reviewed;us;us
+14/04/2019 20.31;323347;891357;10;46;mb;;99;313;115;us;us700035zg;14/04/2019 22.03;92km NW of Pubu, China;earthquake;98;16;114;23;reviewed;us;us
+14/04/2019 19.29;-585875;-249109;35;45;mb;;90;7728;107;us;us700035ze;14/04/2019 22.22;105km ENE of Bristol Island, South Sandwich Islands;earthquake;136;2;145;14;reviewed;us;us
+14/04/2019 19.17;-19574;1225632;10;46;mb;;94;933;118;us;us700035z9;14/04/2019 22.16;113km SSW of Luwuk, Indonesia;earthquake;57;19;142;15;reviewed;us;us
+14/04/2019 18.48;174928;-95178;9829;5;mww;;132;315;88;us;us700035z6;23/04/2019 20.52;16km WNW of Jesus Carranza, Mexico;earthquake;86;74;71;19;reviewed;us;us
+14/04/2019 17.30;521156;1780861;10;52;mww;;40;1945;79;us;us700035yu;23/04/2019 20.34;33km E of Kiska Volcano, Alaska;earthquake;3;18;52;35;reviewed;us;us
+14/04/2019 17.22;-28411;1411559;1504;4;mb;;173;555;49;us;us70003arw;23/04/2019 20.30;24km SW of Vanimo, Papua New Guinea;earthquake;95;6;172;9;reviewed;us;us
+14/04/2019 17.10;39502;1259701;14264;44;mb;;109;3123;62;us;us70003arx;23/04/2019 18.38;170km SSE of Sarangani, Philippines;earthquake;8;61;98;30;reviewed;us;us
+14/04/2019 14.07;-330568;-702906;10299;44;mb;;60;28;59;us;us700035wb;15/04/2019 05.53;37km SE of Los Andes, Chile;earthquake;52;54;268;4;reviewed;us;us
+14/04/2019 13.20;443647;811155;915;4;mwr;;72;2517;96;us;us700035vp;14/04/2019 13.36;54km N of Yining Xian, China;earthquake;84;56;75;17;reviewed;us;us
+14/04/2019 12.35;-24128;-669005;22858;44;mb;;54;1657;83;us;us700035v0;14/04/2019 12.47;59km W of San Antonio de los Cobres, Argentina;earthquake;63;145;218;6;reviewed;us;us
+14/04/2019 10.45;261232;129441;10;47;mb;;70;1265;67;us;us700035tm;14/04/2019 11.09;155km ESE of Nago, Japan;earthquake;64;19;76;52;reviewed;us;us
+14/04/2019 10.12;74001;945314;10;47;mb;;117;3227;55;us;us700035t9;14/04/2019 10.38;147km ESE of Mohean, India;earthquake;76;19;84;43;reviewed;us;us
+14/04/2019 08.55;261398;1295145;10;49;mb;;76;1311;89;us;us700035sg;14/04/2019 09.16;161km ESE of Nago, Japan;earthquake;4;18;52;117;reviewed;us;us
+14/04/2019 08.33;263048;1292923;10;47;mb;;111;1055;9;us;us700035s9;14/04/2019 09.00;134km ESE of Nago, Japan;earthquake;75;19;66;70;reviewed;us;us
+14/04/2019 07.40;262959;129382;10;48;mb;;126;6928;48;us;us700035s0;14/04/2019 08.33;143km ESE of Nago, Japan;earthquake;75;17;5;123;reviewed;us;us
+14/04/2019 07.12;261142;1294713;10;48;mb;;75;1292;7;us;us700035rb;14/04/2019 07.51;158km ESE of Nago, Japan;earthquake;6;11;51;117;reviewed;us;us
+14/04/2019 06.45;264497;1405687;40311;4;mb;;122;1581;67;us;us70003arh;25/04/2019 06.35;178km WSW of Chichi-shima, Japan;earthquake;133;91;83;39;reviewed;us;us
+14/04/2019 05.59;387718333;-1127648333;111;406;ml;28;49;2737;18;uu;uu60320932;20/04/2019 01.49;46km WSW of Fillmore, Utah;earthquake;34;102;13;21;reviewed;uu;uu
+14/04/2019 05.32;137134;-90024;10115;44;mb;;167;937;115;us;us700035nx;16/04/2019 06.23;14km S of San Francisco Menendez, El Salvador;earthquake;76;87;86;39;reviewed;us;us
+14/04/2019 05.23;261777;1294505;10;45;mb;;79;1242;109;us;us70003ard;25/04/2019 06.16;153km ESE of Nago, Japan;earthquake;45;19;18;13;reviewed;us;us
+14/04/2019 05.09;197423333;-1557898333;133;534;ml;78;66;;17;hv;hv70907436;28/04/2019 05.33;20km E of Kalaoa, Hawaii;earthquake;22;38;152;52;reviewed;hv;hv
+14/04/2019 04.53;141878;-930908;35;45;mb;;188;1393;113;us;us700035nk;14/04/2019 05.42;93km SW of Puerto Madero, Mexico;earthquake;82;2;37;211;reviewed;us;us
+14/04/2019 04.18;-85375;1183285;12975;42;mb;;75;3774;57;us;us700035na;14/04/2019 04.34;4km ENE of Npongge, Indonesia;earthquake;97;79;186;8;reviewed;us;us
+14/04/2019 03.53;26249;1295245;10;52;mww;;39;1264;122;us;us700035my;14/04/2019 10.26;158km ESE of Nago, Japan;earthquake;59;19;73;18;reviewed;us;us
+14/04/2019 03.48;-229523;1705865;10;48;mb;;107;2917;76;us;us70003ar9;25/04/2019 05.26;162km WSW of Ile Hunter, New Caledonia;earthquake;115;19;196;8;reviewed;us;us
+14/04/2019 03.47;262615;1295635;10;44;mb;;81;129;91;us;us70003ar8;25/04/2019 05.14;162km ESE of Nago, Japan;earthquake;71;19;149;13;reviewed;us;us
+14/04/2019 03.08;73968;942177;10;46;mb;;160;5463;57;us;us700035ml;14/04/2019 03.53;117km ESE of Mohean, India;earthquake;84;18;122;20;reviewed;us;us
+14/04/2019 02.32;-18125;-1781698;54797;43;mb;;77;3615;109;us;us70003ar5;27/04/2019 01.45;285km NNE of Ndoi Island, Fiji;earthquake;129;79;106;25;reviewed;us;us
+14/04/2019 01.46;72515;946611;10;45;mb;;84;3033;71;us;us700035m0;21/04/2019 02.38;167km NNW of Sabang, Indonesia;earthquake;5;19;118;21;reviewed;us;us
+14/04/2019 01.16;387665;491279;10;4;mb;;137;428;108;us;us700035lg;21/04/2019 02.32;Caspian Sea, offshore Azerbaijan;earthquake;83;2;156;11;reviewed;us;us
+14/04/2019 01.02;14069;931441;10;45;mb;;56;243;46;us;us700035l2;21/04/2019 02.23;266km N of Bamboo Flat, India;earthquake;8;19;92;35;reviewed;us;us
+14/04/2019 00.18;-45558;1496361;55144;42;mb;;54;2546;7;us;us700035kk;21/04/2019 04.06;123km NNW of Kimbe, Papua New Guinea;earthquake;118;75;72;54;reviewed;us;us
+13/04/2019 22.43;73553;943783;10;5;mww;;63;3314;61;us;us700035j6;21/04/2019 04.54;135km ESE of Mohean, India;earthquake;7;18;69;20;reviewed;us;us
+13/04/2019 21.08;376793;751194;10067;4;mb;;83;2751;65;us;us700035hu;21/04/2019 06.59;115km ESE of Murghob, Tajikistan;earthquake;78;77;126;17;reviewed;us;us
+13/04/2019 20.22;7158;943445;10;44;mb;;87;322;79;us;us700035hd;16/04/2019 17.17;144km SE of Mohean, India;earthquake;79;19;8;45;reviewed;us;us
+13/04/2019 19.54;506985;-1792475;10;4;mb;;236;1104;78;us;us700035k9;16/04/2019 17.04;63km S of Amatignak Island, Alaska;earthquake;83;2;5;107;reviewed;us;us
+13/04/2019 19.03;70445;945077;10;45;mb;;102;3022;7;us;us700035gr;16/04/2019 16.20;155km NW of Sabang, Indonesia;earthquake;92;19;91;37;reviewed;us;us
+13/04/2019 19.01;-226607;-1756324;2092;49;mb;;115;6416;103;us;us700035gt;16/04/2019 16.04;162km SSW of `Ohonua, Tonga;earthquake;96;52;42;178;reviewed;us;us
+13/04/2019 18.53;-64382;1300443;13882;48;mww;;69;1975;99;us;us700035gm;13/04/2019 19.08;218km NW of Saumlaki, Indonesia;earthquake;8;72;75;17;reviewed;us;us
+13/04/2019 18.20;7326;9446;10;49;mb;;110;3233;105;us;us700035gd;13/04/2019 18.40;144km ESE of Mohean, India;earthquake;103;19;86;42;reviewed;us;us
+13/04/2019 18.12;73889;945506;10;53;mww;;97;3206;93;us;us700035g9;13/04/2019 18.32;150km ESE of Mohean, India;earthquake;98;19;73;18;reviewed;us;us
+13/04/2019 17.07;262282;1295164;10;5;mb;;69;1268;126;us;us700035fl;14/04/2019 04.13;158km ESE of Nago, Japan;earthquake;65;19;95;35;reviewed;us;us
+13/04/2019 14.04;-50697;1015666;3334;47;mb;;184;1553;92;us;us700035du;13/04/2019 14.23;160km SSW of Bengkulu, Indonesia;earthquake;76;55;96;33;reviewed;us;us
+13/04/2019 13.37;-52006;1519572;5735;48;mb;;90;1023;61;us;us700035dg;13/04/2019 14.10;99km SSW of Kokopo, Papua New Guinea;earthquake;97;77;52;114;reviewed;us;us
+13/04/2019 11.50;-53576;1459517;7903;52;mww;;25;4195;66;us;us700035cs;16/04/2019 12.13;22km SE of Madang, Papua New Guinea;earthquake;57;58;66;22;reviewed;us;us
+13/04/2019 10.59;260711;1295703;10;46;mb;;153;139;93;us;us700035c6;13/04/2019 11.16;169km ESE of Nago, Japan;earthquake;73;19;112;24;reviewed;us;us
+13/04/2019 10.44;-6522;1486864;3845;52;mww;;55;3238;75;us;us700035bx;13/04/2019 18.46;90km E of Finschhafen, Papua New Guinea;earthquake;88;7;68;21;reviewed;us;us
+13/04/2019 10.17;261999;1295757;10;46;mb;;72;1328;104;us;us700035bs;13/04/2019 10.34;165km ESE of Nago, Japan;earthquake;65;18;9;37;reviewed;us;us
+13/04/2019 10.08;154536;-944366;4121;44;mb;;180;2361;107;us;us700035bl;13/04/2019 10.24;88km SW of Paredon, Mexico;earthquake;101;117;71;57;reviewed;us;us
+13/04/2019 09.34;541878;1661786;10;44;mb;;155;4633;67;us;us700035bg;13/04/2019 09.51;112km S of Nikol'skoye, Russia;earthquake;138;2;78;47;reviewed;us;us
+13/04/2019 09.14;262901;1295245;10;49;mww;;60;1246;104;us;us700035be;13/04/2019 09.30;157km ESE of Nago, Japan;earthquake;61;18;8;15;reviewed;us;us
+13/04/2019 09.11;261984;1295337;10;49;mww;;57;1296;73;us;us700035bf;13/04/2019 09.25;161km ESE of Nago, Japan;earthquake;62;19;68;21;reviewed;us;us
+13/04/2019 09.08;261982;1295472;10;49;mww;;67;1306;15;us;us700035bb;13/04/2019 09.21;162km ESE of Nago, Japan;earthquake;61;19;71;19;reviewed;us;us
+13/04/2019 07.26;-18184;1226027;10;48;mb;;36;789;1;us;us700035af;13/04/2019 07.43;98km SSW of Luwuk, Indonesia;earthquake;28;19;84;44;reviewed;us;us
+13/04/2019 06.23;-1876;1226464;10;45;mb;;68;838;9;us;us700035a1;13/04/2019 06.42;103km S of Luwuk, Indonesia;earthquake;53;19;136;16;reviewed;us;us
+13/04/2019 05.43;-13571;-777363;17909;48;mb;;130;1737;67;us;us7000359x;13/04/2019 17.40;30km ENE of Puyo, Ecuador;earthquake;91;73;27;418;reviewed;us;us
+13/04/2019 04.45;-241775;1798879;53059;4;mb;;186;6626;62;us;us700038ng;25/04/2019 04.56;South of the Fiji Islands;earthquake;144;108;164;10;reviewed;us;us
+13/04/2019 04.29;-17272;1226459;35;42;mb;;91;692;128;us;us7000359z;13/04/2019 06.24;87km S of Luwuk, Indonesia;earthquake;44;2;176;9;reviewed;us;us
+13/04/2019 03.49;15329;1263964;5919;42;mb;;104;1229;104;us;us700038nc;25/04/2019 04.35;135km E of Bitung, Indonesia;earthquake;104;88;142;14;reviewed;us;us
+13/04/2019 03.31;-46701;1540849;10;46;mb;;131;1973;65;us;us700038n8;25/04/2019 03.51;118km E of Taron, Papua New Guinea;earthquake;111;19;192;9;reviewed;us;us
+13/04/2019 03.18;-61746;1292527;21189;47;mb;;78;2711;68;us;us7000359g;13/04/2019 04.21;295km SSE of Saparua, Indonesia;earthquake;102;45;138;16;reviewed;us;us
+13/04/2019 03.12;512762;1590724;35;46;mb;;165;1769;82;us;us7000359e;13/04/2019 04.06;179km E of Ozernovskiy, Russia;earthquake;105;2;78;49;reviewed;us;us
+13/04/2019 02.11;72874;943357;10;43;mb;;192;3304;39;us;us700038nj;19/04/2019 06.54;135km SE of Mohean, India;earthquake;121;2;168;10;reviewed;us;us
+13/04/2019 02.06;-17311;1670693;10;47;mb;;267;4772;74;us;us700038n9;19/04/2019 07.04;137km SSW of Lakatoro, Vanuatu;earthquake;79;2;246;5;reviewed;us;us
+13/04/2019 01.16;125083;-892001;4112;43;mb;;182;1885;103;us;us7000358b;13/04/2019 01.39;109km S of La Libertad, El Salvador;earthquake;77;131;153;12;reviewed;us;us
+13/04/2019 01.14;72825;943985;10;49;mb;;59;3253;94;us;us7000358c;13/04/2019 01.32;141km ESE of Mohean, India;earthquake;7;19;75;56;reviewed;us;us
+13/04/2019 00.59;-19204;1226147;969;48;mb;;37;886;116;us;us70003582;13/04/2019 01.15;108km S of Luwuk, Indonesia;earthquake;54;4;95;34;reviewed;us;us
+13/04/2019 00.39;-18008;122658;1243;43;mb;;85;762;52;us;us7000357x;13/04/2019 00.56;94km S of Luwuk, Indonesia;earthquake;46;4;178;9;reviewed;us;us
+13/04/2019 00.02;-72356;1293922;14774;44;mb;;78;203;106;us;us7000357h;13/04/2019 00.27;226km WNW of Saumlaki, Indonesia;earthquake;56;103;13;17;reviewed;us;us
+12/04/2019 23.18;-47212;1547887;4532;44;mb;;59;694;78;us;us7000356z;12/04/2019 23.39;184km NNW of Arawa, Papua New Guinea;earthquake;46;89;6;82;reviewed;us;us
+12/04/2019 23.03;-174579;167442;10;46;mb;;74;4685;76;us;us7000356s;12/04/2019 23.48;98km WNW of Port-Vila, Vanuatu;earthquake;49;19;151;13;reviewed;us;us
+12/04/2019 22.15;-18535;1226147;2072;48;mww;;35;821;82;us;us7000355t;13/04/2019 18.16;101km S of Luwuk, Indonesia;earthquake;23;51;89;12;reviewed;us;us
+12/04/2019 21.24;213649;-459198;10;49;mb;;73;1519;91;us;us70003559;13/04/2019 18.00;Northern Mid-Atlantic Ridge;earthquake;83;18;37;233;reviewed;us;us
+12/04/2019 20.23;-17748;1226092;2795;44;mb;;39;746;88;us;us7000354f;13/04/2019 16.45;93km SSW of Luwuk, Indonesia;earthquake;46;63;93;38;reviewed;us;us
+12/04/2019 17.08;-18534;1226286;10;46;mb;;55;818;104;us;us7000350a;12/04/2019 18.52;101km S of Luwuk, Indonesia;earthquake;44;19;182;9;reviewed;us;us
+12/04/2019 17.03;-60211;1291867;24624;5;mb;;95;2862;109;us;us70003505;12/04/2019 17.17;277km SSE of Saparua, Indonesia;earthquake;10;104;146;15;reviewed;us;us
+12/04/2019 16.51;-63993;1486682;10;59;mww;;63;3339;104;us;us700034zz;14/04/2019 02.05;91km ENE of Finschhafen, Papua New Guinea;earthquake;77;19;73;18;reviewed;us;us
+12/04/2019 16.28;141765;518204;10;46;mb;;143;9137;134;us;us700034zs;12/04/2019 21.44;130km SSE of Sayhut, Yemen;earthquake;108;2;88;38;reviewed;us;us
+12/04/2019 16.24;368842;759659;10;44;mb;;84;3497;93;us;us700034zl;19/04/2019 15.38;131km ENE of Barishal, Pakistan;earthquake;53;19;162;11;reviewed;us;us
+12/04/2019 16.08;502456;1526543;28301;43;mb;;171;425;83;us;us700034zj;12/04/2019 21.39;251km W of Severo-Kuril'sk, Russia;earthquake;127;87;104;26;reviewed;us;us
+12/04/2019 16.06;404108;-1268693;5;46;mb;;266;1933;56;us;us700034z9;19/04/2019 06.39;221km W of Ferndale, California;earthquake;48;2;111;24;reviewed;us;us
+12/04/2019 15.31;142607;-931121;35;46;mb;;211;1398;107;us;us700034yw;13/04/2019 00.45;90km SW of Puerto Madero, Mexico;earthquake;86;2;5;121;reviewed;us;us
+12/04/2019 15.03;407028;30672;10;44;mb;;53;462;96;us;us700034ym;19/04/2019 15.23;4km ENE of Akyazi, Turkey;earthquake;34;19;117;21;reviewed;us;us
+12/04/2019 14.23;-154001;-1727157;10;58;mb;;32;1738;109;us;us700034ya;16/04/2019 18.15;126km ENE of Hihifo, Tonga;earthquake;57;13;29;433;reviewed;us;us
+12/04/2019 14.12;-1828;1225845;10;51;mb;;35;3431;106;us;us700034y7;12/04/2019 14.29;99km SSW of Luwuk, Indonesia;earthquake;64;18;77;55;reviewed;us;us
+12/04/2019 14.03;-20217;1225065;10;47;mb;;56;3557;114;us;us700034y1;12/04/2019 14.32;122km SSW of Luwuk, Indonesia;earthquake;73;18;101;30;reviewed;us;us
+12/04/2019 13.50;-16606;122611;10;53;mb;;29;635;8;us;us700038kp;19/04/2019 14.09;80km SSW of Luwuk, Indonesia;earthquake;68;18;58;98;reviewed;us;us
+12/04/2019 13.45;-18649;122631;10;57;mb;;48;3486;103;us;us700038kq;19/04/2019 13.51;102km S of Luwuk, Indonesia;earthquake;68;18;51;138;reviewed;us;us
+12/04/2019 13.40;-18518;1225527;1748;68;mww;;29;3434;146;us;us700034xq;24/04/2019 18.36;102km SSW of Luwuk, Indonesia;earthquake;64;41;71;19;reviewed;us;us
+12/04/2019 13.23;118499;928553;4874;47;mb;;59;221;89;us;us700034xc;19/04/2019 12.44;22km NE of Bamboo Flat, India;earthquake;72;39;48;131;reviewed;us;us
+12/04/2019 12.59;-6572;1506005;10;5;mb;;83;2831;106;us;us700034x8;12/04/2019 13.18;122km ESE of Kandrian, Papua New Guinea;earthquake;83;18;1;32;reviewed;us;us
+12/04/2019 12.21;-3862;1315683;10;49;mb;;101;1157;85;us;us700034wx;12/04/2019 14.15;238km NNW of Tual, Indonesia;earthquake;69;12;63;80;reviewed;us;us
+12/04/2019 11.28;305848;1320543;10;45;mb;;126;2723;105;us;us700038k5;19/04/2019 11.15;102km E of Nishinoomote, Japan;earthquake;83;19;76;51;reviewed;us;us
+12/04/2019 11.27;301695;873838;10;45;mb;;76;3282;101;us;us700034w6;12/04/2019 15.32;105km NNE of Ngamring, China;earthquake;86;19;61;78;reviewed;us;us
+12/04/2019 10.57;436497;1399083;21394;42;mb;;61;1996;63;us;us700034vr;13/04/2019 06.59;85km NW of Yoichi, Japan;earthquake;92;9;83;40;reviewed;us;us
+12/04/2019 09.55;129687;-902682;35;44;mb;;164;1673;96;us;us700034ud;12/04/2019 10.12;83km SW of Acajutla, El Salvador;earthquake;51;2;6;80;reviewed;us;us
+12/04/2019 09.30;258246;1412731;54277;46;mb;;112;1506;65;us;us700034u1;16/04/2019 20.09;115km N of Iwo Jima, Japan;earthquake;112;89;5;119;reviewed;us;us
+12/04/2019 08.26;262184;1294949;28;49;mb;;70;1256;86;us;us700034tc;12/04/2019 08.48;156km ESE of Nago, Japan;earthquake;67;53;78;52;reviewed;us;us
+12/04/2019 07.12;126432;-879252;6387;44;mb;;166;884;82;us;us700034t0;12/04/2019 07.55;52km WSW of Jiquilillo, Nicaragua;earthquake;81;131;69;61;reviewed;us;us
+12/04/2019 05.48;-189209;-175124;23372;44;mb;;87;4919;98;us;us700038k1;25/04/2019 03.17;123km WSW of Neiafu, Tonga;earthquake;118;85;155;13;reviewed;us;us
+12/04/2019 05.47;200292;1456018;902;45;mb;;105;4765;78;us;us700038k2;25/04/2019 02.58;92km SE of Farallon de Pajaros, Northern Mariana Islands;earthquake;119;65;96;42;reviewed;us;us
+12/04/2019 05.46;199645;1214608;10;48;mb;;113;2861;102;us;us700034rw;18/04/2019 07.32;59km SW of Sabtang, Philippines;earthquake;9;19;62;81;reviewed;us;us
+12/04/2019 05.34;-337546;1794171;18997;46;mb;;140;3905;51;us;us700038ju;25/04/2019 02.30;South of the Kermadec Islands;earthquake;122;6;151;13;reviewed;us;us
+12/04/2019 05.06;51747;1583092;8748;42;mb;;202;1295;71;us;us700038jt;25/04/2019 00.50;127km ENE of Ozernovskiy, Russia;earthquake;128;68;263;7;reviewed;us;us
+12/04/2019 04.44;238484;1249974;35;45;mb;;123;1915;114;us;us700034r9;12/04/2019 12.46;101km ESE of Ishigaki, Japan;earthquake;54;19;156;12;reviewed;us;us
+12/04/2019 04.28;-180117;-1793023;61653;46;mb;;55;2532;94;us;us700034r4;12/04/2019 14.33;225km SE of Lambasa, Fiji;earthquake;131;71;89;38;reviewed;us;us
+12/04/2019 04.04;124696;-891731;35;43;mb;;194;1926;116;us;us700034qw;12/04/2019 04.42;112km SW of Puerto El Triunfo, El Salvador;earthquake;78;2;111;23;reviewed;us;us
+12/04/2019 03.57;105598;937748;10;42;mb;;163;1486;11;us;us700038jr;25/04/2019 00.22;165km SE of Port Blair, India;earthquake;93;19;216;8;reviewed;us;us
+12/04/2019 02.48;78319;-826567;10;46;mb;;148;872;92;us;us700034qh;12/04/2019 06.28;32km SE of Punta de Burica, Panama;earthquake;72;19;52;111;reviewed;us;us
+12/04/2019 02.31;-472391;-132689;10;5;mb;;77;10188;63;us;us700034qe;12/04/2019 06.31;Southern Mid-Atlantic Ridge;earthquake;102;18;79;52;reviewed;us;us
+12/04/2019 00.45;-257236;1795235;49823;44;mb;;132;8056;1;us;us700038ht;20/04/2019 04.46;South of the Fiji Islands;earthquake;151;129;148;13;reviewed;us;us
+12/04/2019 00.34;7564;1262251;4678;46;mb;;60;1141;69;us;us700034pc;12/04/2019 01.06;127km W of Kota Ternate, Indonesia;earthquake;84;1;1;30;reviewed;us;us
+12/04/2019 00.28;-319225;571422;10;5;mb;;58;10781;68;us;us700034pa;12/04/2019 06.40;Southwest Indian Ridge;earthquake;101;18;63;79;reviewed;us;us
+12/04/2019 00.24;-56354;152391;10;48;mb;;156;1452;78;us;us700034p6;12/04/2019 06.42;142km S of Kokopo, Papua New Guinea;earthquake;95;19;81;47;reviewed;us;us
+12/04/2019 00.12;-161394;-1738671;1166;44;mb;;97;2998;65;us;us700038hs;20/04/2019 04.57;24km SSW of Hihifo, Tonga;earthquake;109;86;144;14;reviewed;us;us
+11/04/2019 23.31;-65114;1486588;22;56;mww;;20;3235;86;us;us700034nf;13/04/2019 18.46;88km E of Finschhafen, Papua New Guinea;earthquake;67;14;57;30;reviewed;us;us
+11/04/2019 23.03;72918;94296;10;43;mb;;176;3338;7;us;us700038hq;19/04/2019 23.32;131km SE of Mohean, India;earthquake;125;2;16;11;reviewed;us;us
+11/04/2019 21.53;262995;1296078;10;49;mww;;62;1309;139;us;us700034kz;11/04/2019 22.07;165km E of Nago, Japan;earthquake;6;17;73;18;reviewed;us;us
+11/04/2019 19.52;248813;1281977;10;51;mww;;46;1947;107;us;us700034k3;12/04/2019 01.21;147km SSE of Itoman, Japan;earthquake;7;19;73;18;reviewed;us;us
+11/04/2019 19.07;-246413;-69916;5636;49;mb;;76;444;165;us;us700034ju;12/04/2019 14.23;101km NE of Taltal, Chile;earthquake;89;62;104;33;reviewed;us;us
+11/04/2019 18.51;-6409;1505236;10;51;mb;;40;2742;69;us;us700034ji;13/04/2019 16.02;103km SSE of Kimbe, Papua New Guinea;earthquake;53;17;41;201;reviewed;us;us
+11/04/2019 18.03;262251;1295226;2593;48;mb;;57;1274;89;us;us700034it;12/04/2019 19.53;159km ESE of Nago, Japan;earthquake;79;51;42;176;reviewed;us;us
+11/04/2019 17.50;-136772;-762085;624;48;mww;;80;1789;98;us;us700034iq;15/04/2019 07.34;2km NNE of Pisco, Peru;earthquake;66;47;103;9;reviewed;us;us
+11/04/2019 12.42;64737;-1491761;189;44;ml;;;;74;ak;ak0194n7hhj6;17/04/2019 11.50;18km N of North Nenana, Alaska;earthquake;;0;;;reviewed;ak;ak
+11/04/2019 10.18;404191;1433042;1224;61;mww;;75;1598;78;us;us700034d3;14/04/2019 15.50;144km NE of Miyako, Japan;earthquake;62;45;73;18;reviewed;us;us
+11/04/2019 08.06;-608494;-1486562;10;49;mb;;111;22178;37;us;us700034ba;11/04/2019 08.43;Pacific-Antarctic Ridge;earthquake;7;19;122;21;reviewed;us;us
+11/04/2019 05.55;76384;942451;10;49;mb;;132;3597;75;us;us700034a6;11/04/2019 06.14;108km ESE of Mohean, India;earthquake;104;19;84;44;reviewed;us;us
+11/04/2019 05.50;76972;943004;10;51;mb;;97;3596;97;us;us7000349v;11/04/2019 06.09;112km ESE of Mohean, India;earthquake;49;19;56;105;reviewed;us;us
+11/04/2019 04.39;77007;943804;10;49;mww;;96;354;88;us;us7000348u;11/04/2019 05.40;120km ESE of Mohean, India;earthquake;75;18;8;15;reviewed;us;us
+11/04/2019 03.39;275562;540344;10;4;mb;;102;3249;69;us;us7000347r;11/04/2019 04.14;15km SW of Gerash, Iran;earthquake;87;19;164;10;reviewed;us;us
+11/04/2019 02.55;-167435;1691954;10;46;mb;;82;5901;76;us;us700038h2;27/04/2019 01.19;143km NE of Port-Vila, Vanuatu;earthquake;65;19;152;13;reviewed;us;us
+11/04/2019 02.52;-65406;148821;35;43;mb;;119;3287;102;us;us700038gs;27/04/2019 01.04;88km WSW of Kandrian, Papua New Guinea;earthquake;56;2;188;8;reviewed;us;us
+11/04/2019 02.32;-294764;-71446;4698;4;mb;;136;476;84;us;us7000346y;27/04/2019 00.53;51km NNW of La Serena, Chile;earthquake;51;96;366;2;reviewed;us;us
+11/04/2019 02.18;-339743;-703225;10965;43;mwr;;34;158;53;us;us7000346r;27/04/2019 00.44;39km NE of Machali, Chile;earthquake;68;45;53;34;reviewed;us;us
+11/04/2019 01.07;216575;1431593;2885;4;mb;;126;5486;68;us;us700037va;20/04/2019 02.22;219km NW of Farallon de Pajaros, Northern Mariana Islands;earthquake;128;99;98;28;reviewed;us;us
+10/04/2019 23.18;-14961;1674169;14516;44;mb;;187;7132;66;us;us700037v4;20/04/2019 01.45;40km ENE of Port-Olry, Vanuatu;earthquake;141;68;203;7;reviewed;us;us
+10/04/2019 17.09;75624;941641;10;46;mb;;159;3609;64;us;us700033pp;22/04/2019 03.56;103km ESE of Mohean, India;earthquake;94;19;85;42;reviewed;us;us
+10/04/2019 16.11;440002;-128854;10;47;mww;;183;3483;86;us;us700033n5;11/04/2019 03.50;Off the coast of Oregon;earthquake;104;19;5;39;reviewed;us;us
+10/04/2019 15.08;-16077;-6959;22684;46;mb;;127;1417;107;us;us700033mf;11/04/2019 06.51;8km E of Ilave, Peru;earthquake;88;65;97;32;reviewed;us;us
+10/04/2019 13.51;-23214;1391697;35;44;mb;;81;6939;48;us;us700033lr;10/04/2019 14.16;160km WNW of Abepura, Indonesia;earthquake;68;19;97;31;reviewed;us;us
+10/04/2019 09.28;27925;1286379;21937;5;mww;;98;2375;139;us;us700033j0;10/04/2019 09.40;136km NNE of Tobelo, Indonesia;earthquake;53;75;75;17;reviewed;us;us
+10/04/2019 09.26;124254;1447429;10;48;mb;;72;1163;63;us;us700033j3;11/04/2019 14.23;93km S of Inarajan Village, Guam;earthquake;112;19;62;80;reviewed;us;us
+10/04/2019 07.57;-232902;1689821;2269;5;mb;;86;1567;111;us;us700033hu;10/04/2019 08.49;168km ESE of Vao, New Caledonia;earthquake;153;49;13;30;reviewed;us;us
+10/04/2019 07.39;10588;-849278;10;4;ml;;127;296;103;us;us700033i9;10/04/2019 16.13;13km NNE of Tilaran, Costa Rica;earthquake;23;2;77;22;reviewed;us;us
+10/04/2019 04.33;662383;-1757551;10;42;mb;;141;3011;85;us;us700033fm;22/04/2019 03.23;153km E of Egvekinot, Russia;earthquake;79;19;81;42;reviewed;us;us
+10/04/2019 03.51;-610921;-360565;10;45;mb;;118;6831;1;us;us700037u6;19/04/2019 06.38;Scotia Sea;earthquake;142;2;204;7;reviewed;us;us
+10/04/2019 02.47;-75471;-136;10;49;mb;;129;845;1;us;us700033ew;19/04/2019 00.50;99km ENE of Georgetown, Saint Helena;earthquake;88;19;64;76;reviewed;us;us
+10/04/2019 00.57;241799;1219613;2334;45;mwr;;72;334;81;us;us700033d7;20/04/2019 01.33;42km ENE of Hualian, Taiwan;earthquake;45;48;63;24;reviewed;us;us
+09/04/2019 23.53;75335;943612;10;43;mb;;102;3442;73;us;us700037nj;27/04/2019 00.31;124km ESE of Mohean, India;earthquake;103;19;128;17;reviewed;us;us
+09/04/2019 22.24;239378;121596;1234;5;mb;;81;234;6;us;us600032iz;15/04/2019 16.51;4km S of Hualian, Taiwan;earthquake;64;44;43;174;reviewed;us;us
+09/04/2019 22.01;558035;-1492684;701;4;ml;;189;2642;76;us;us600032hz;11/04/2019 19.54;292km SE of Kodiak, Alaska;earthquake;56;77;45;64;reviewed;us;us
+09/04/2019 20.08;446965;-112504;1562;44;mwr;;41;129;42;us;us600032fs;25/04/2019 05.21;9km NE of Lima, Montana;earthquake;2;62;4;60;reviewed;us;us
+09/04/2019 19.53;-585931;-252804;4584;65;mww;;18;7562;108;us;us600032fg;11/04/2019 17.37;86km NE of Bristol Island, South Sandwich Islands;earthquake;8;35;49;40;reviewed;us;us
+09/04/2019 19.42;-55058;1474766;17481;46;mb;;48;3441;101;us;us600032f5;11/04/2019 16.52;128km NNW of Finschhafen, Papua New Guinea;earthquake;87;7;87;41;reviewed;us;us
+09/04/2019 18.30;374058;728713;4019;4;mb;;103;971;104;us;us600032e2;17/04/2019 17.33;70km NE of Khandud, Afghanistan;earthquake;72;67;232;5;reviewed;us;us
+09/04/2019 17.41;-54451;1284509;30998;44;mb;;193;4543;43;us;us700037ni;17/04/2019 17.30;193km S of Amahusu, Indonesia;earthquake;158;178;161;11;reviewed;us;us
+09/04/2019 17.13;239178;1215991;668;48;mww;;73;254;74;us;us2000kcxv;17/04/2019 17.23;6km S of Hualian, Taiwan;earthquake;37;47;73;18;reviewed;us;us
+09/04/2019 16.45;-127092;455608;10;43;mb;;106;6474;36;us;us700037ng;17/04/2019 17.20;31km ENE of Pamandzi, Mayotte;earthquake;122;19;218;6;reviewed;us;us
+09/04/2019 15.11;216634;1429855;2567;4;mb;;127;6919;79;us;us700037nc;17/04/2019 16.49;234km WNW of Farallon de Pajaros, Northern Mariana Islands;earthquake;157;96;13;16;reviewed;us;us
+09/04/2019 15.03;-180349;-178134;57355;42;mb;;81;3642;37;us;us700037nb;17/04/2019 16.38;295km NNE of Ndoi Island, Fiji;earthquake;152;81;102;27;reviewed;us;us
+09/04/2019 14.33;128999;-887527;10;44;mb;;193;1603;135;us;us2000kcvr;16/04/2019 12.38;47km SSW of Puerto El Triunfo, El Salvador;earthquake;78;2;126;18;reviewed;us;us
+09/04/2019 14.29;-333743;-720681;2054;4;ml;;102;472;8;us;us2000kcvl;09/04/2019 23.08;47km WNW of Cartagena, Chile;earthquake;2;165;53;46;reviewed;us;us
+09/04/2019 13.39;37464;-787119;1424;5;mww;;129;1898;97;us;us2000kcv2;10/04/2019 07.58;139km NNW of Mosquera, Colombia;earthquake;69;42;73;18;reviewed;us;us
+09/04/2019 10.55;408566;1431572;356;44;mb;;167;1157;55;us;us2000kctd;09/04/2019 18.15;145km ENE of Hachinohe, Japan;earthquake;51;93;103;29;reviewed;us;us
+09/04/2019 10.22;354968;299449;10;43;mb;;138;784;53;us;us2000kct0;16/04/2019 10.00;82km SSE of Kas, Turkey;earthquake;51;19;104;26;reviewed;us;us
+09/04/2019 08.04;-207144;-1784445;54225;44;mb;;100;4435;126;us;us2000kcsa;15/04/2019 09.28;27km ESE of Ndoi Island, Fiji;earthquake;141;84;63;72;reviewed;us;us
+09/04/2019 07.17;-92733;1184531;9828;43;mb;;83;3792;102;us;us2000kcrz;15/04/2019 09.18;59km SSW of Tolotangga, Indonesia;earthquake;82;10;126;18;reviewed;us;us
+09/04/2019 04.57;-142927;1673076;20997;49;mb;;53;778;98;us;us2000kcqe;09/04/2019 05.17;52km SSW of Sola, Vanuatu;earthquake;103;76;54;109;reviewed;us;us
+09/04/2019 01.05;-155963;-1729848;10;52;mb;;81;2043;91;us;us2000kcm3;09/04/2019 01.33;90km ENE of Hihifo, Tonga;earthquake;77;19;117;24;reviewed;us;us
+09/04/2019 00.25;125442;-891985;35;5;mb;;63;185;133;us;us2000kcll;19/04/2019 00.16;105km S of La Libertad, El Salvador;earthquake;65;19;26;460;reviewed;us;us
+09/04/2019 00.24;166131;-943409;897;4;mb;;155;214;54;us;us2000kclf;19/04/2019 00.09;14km N of Santo Domingo Zanatepec, Mexico;earthquake;93;239;116;20;reviewed;us;us
+08/04/2019 23.07;30743;-842009;10;41;mb;;101;5373;123;us;us7000379c;18/04/2019 04.42;Off the coast of Central America;earthquake;97;2;369;2;reviewed;us;us
+08/04/2019 22.15;-155784;-1728458;10;51;mb;;73;1955;128;us;us2000kcii;08/04/2019 22.35;105km ENE of Hihifo, Tonga;earthquake;77;19;5;129;reviewed;us;us
+08/04/2019 21.57;563443;-1492686;43;49;mb;;141;2314;73;us;us2000kchr;08/04/2019 23.14;249km SE of Kodiak, Alaska;earthquake;6;43;35;256;reviewed;us;us
+08/04/2019 19.53;-47261;1451921;4521;5;mww;;37;3436;108;us;us2000kceu;08/04/2019 20.07;86km NW of Madang, Papua New Guinea;earthquake;81;67;75;17;reviewed;us;us
+08/04/2019 19.21;-646529;1753855;10;49;mb;;71;13522;105;us;us2000kce1;08/04/2019 19.46;Balleny Islands region;earthquake;122;18;15;20;reviewed;us;us
+08/04/2019 18.57;278297;1401136;4907;42;mb;;198;14044;22;us;us70003790;16/04/2019 23.16;223km WNW of Chichi-shima, Japan;earthquake;211;15;167;10;reviewed;us;us
+08/04/2019 18.23;21018;12793;5349;44;mb;;112;1436;98;us;us7000378x;16/04/2019 22.40;42km NNW of Tobelo, Indonesia;earthquake;103;56;112;23;reviewed;us;us
+08/04/2019 18.16;12737;1270107;13305;51;mww;;72;612;86;us;us2000kccp;16/04/2019 22.27;67km NW of Kota Ternate, Indonesia;earthquake;77;5;55;32;reviewed;us;us
+08/04/2019 17.39;-102387;1239271;4137;45;mb;;76;261;5;us;us7000378w;16/04/2019 21.50;38km ESE of Kupang, Indonesia;earthquake;59;34;163;11;reviewed;us;us
+08/04/2019 17.24;653974;-1533526;115;46;ml;;;;95;ak;ak0194ibqout;16/04/2019 21.36;64km WNW of Tanana, Alaska;earthquake;;14;;;reviewed;ak;ak
+08/04/2019 16.40;-240361;-671912;20689;4;mb;;96;1409;123;us;us2000kcat;16/04/2019 21.33;90km WNW of San Antonio de los Cobres, Argentina;earthquake;104;134;518;3;reviewed;us;us
+08/04/2019 16.34;57293;-328452;10;46;mb;;64;17845;74;us;us2000kcb1;16/04/2019 21.30;Central Mid-Atlantic Ridge;earthquake;134;19;79;48;reviewed;us;us
+08/04/2019 15.55;-282366;742356;10;47;mb;;91;24567;88;us;us7000378v;16/04/2019 21.24;Mid-Indian Ridge;earthquake;138;19;101;30;reviewed;us;us
+08/04/2019 15.41;56457;-328756;10;46;mb;;63;226;74;us;us7000378y;16/04/2019 21.11;Central Mid-Atlantic Ridge;earthquake;126;19;69;63;reviewed;us;us
+08/04/2019 15.22;419562;1423146;6823;46;mb;;143;1497;77;us;us2000kca5;16/04/2019 20.34;42km S of Shizunai, Japan;earthquake;85;86;83;44;reviewed;us;us
+08/04/2019 15.12;-68217;130687;11807;48;mb;;54;1303;84;us;us2000kc9y;16/04/2019 20.32;142km NNW of Saumlaki, Indonesia;earthquake;9;91;114;24;reviewed;us;us
+08/04/2019 12.41;527378;-1669099;2578;46;mb;;151;1135;12;us;us2000kc8j;08/04/2019 13.24;128km SSW of Unalaska, Alaska;earthquake;84;53;54;105;reviewed;us;us
+08/04/2019 09.35;519108;-1695701;2493;47;mb;;137;1149;127;us;us2000kc6e;08/04/2019 18.54;111km SE of Yunaska Island, Alaska;earthquake;44;5;3;348;reviewed;us;us
+08/04/2019 08.58;22094;1214781;10;51;mww;;79;809;81;us;us2000kc5f;12/04/2019 22.24;76km E of Hengchun, Taiwan;earthquake;5;18;68;21;reviewed;us;us
+08/04/2019 08.39;-320145;-717618;3377;42;mwr;;137;1011;73;us;us2000kc5a;08/04/2019 09.06;69km NW of La Ligua, Chile;earthquake;44;44;38;67;reviewed;us;us
+08/04/2019 06.49;261494;1294665;10;45;mb;;75;1269;84;us;us7000378h;18/04/2019 04.29;156km ESE of Nago, Japan;earthquake;71;19;181;9;reviewed;us;us
+08/04/2019 06.42;-411495;-905346;10;44;mb;;59;13538;98;us;us2000kc4a;18/04/2019 04.01;Southeast of Easter Island;earthquake;134;19;102;28;reviewed;us;us
+08/04/2019 06.12;26329;1295878;10;55;mww;;24;1281;97;us;us2000kc3p;18/04/2019 03.54;163km E of Nago, Japan;earthquake;73;17;35;77;reviewed;us;us
+08/04/2019 05.23;-21464;-80394;4475;49;mb;;39;1179;9;us;us2000kc35;18/04/2019 03.29;38km SSW of Pedro Carbo, Ecuador;earthquake;31;44;26;477;reviewed;us;us
+08/04/2019 05.13;-19605;662223;10;48;mb;;174;18586;107;us;us2000kc3j;17/04/2019 02.37;294km E of Ile Rodrigues, Mauritius;earthquake;73;19;77;53;reviewed;us;us
+08/04/2019 04.59;204836;1220853;2482;47;mb;;122;2503;97;us;us2000kc2x;17/04/2019 02.32;12km ENE of Basco, Philippines;earthquake;68;47;46;146;reviewed;us;us
+08/04/2019 04.07;68088;-730399;15176;44;mb;;42;911;103;us;us2000kc2d;17/04/2019 01.57;12km N of Aratoca, Colombia;earthquake;31;58;42;164;reviewed;us;us
+08/04/2019 03.54;131345;954198;10;51;mww;;31;2999;98;us;us2000kc24;17/04/2019 01.14;Andaman Islands, India region;earthquake;28;18;52;35;reviewed;us;us
+08/04/2019 02.01;54443;-1610656;35;44;mb;;156;942;11;us;us2000kc0f;09/04/2019 06.55;104km WSW of Chernabura Island, Alaska;earthquake;42;2;52;106;reviewed;us;us
+08/04/2019 01.17;-24121;-671656;22131;46;mb;;75;1489;76;us;us2000kbzy;08/04/2019 03.54;86km W of San Antonio de los Cobres, Argentina;earthquake;5;109;223;6;reviewed;us;us
+07/04/2019 23.24;504357;1562253;8431;44;mb;;137;2828;38;us;us2000kby1;07/04/2019 23.44;27km SSE of Severo-Kuril'sk, Russia;earthquake;122;88;109;24;reviewed;us;us
+07/04/2019 21.53;-408505;-860558;10;47;mb;;282;9212;132;us;us2000kbx6;07/04/2019 22.10;West Chile Rise;earthquake;17;2;102;29;reviewed;us;us
+07/04/2019 21.45;8833;1231563;5985;49;mb;;70;195;102;us;us2000kbwz;07/04/2019 21.59;12km WSW of Boroko, Indonesia;earthquake;56;91;106;28;reviewed;us;us
+07/04/2019 21.15;-190803;-1743243;1967;52;mww;;37;4158;122;us;us2000kbwq;07/04/2019 21.48;59km SW of Neiafu, Tonga;earthquake;104;39;73;18;reviewed;us;us
+07/04/2019 20.59;-610115;1537166;10;48;mb;;128;16801;115;us;us2000kbwn;07/04/2019 21.18;Balleny Islands region;earthquake;88;2;119;22;reviewed;us;us
+07/04/2019 18.50;-67821;103241;10;46;mb;;165;2422;71;us;us2000kbvd;16/04/2019 16.50;182km SSW of Biha, Indonesia;earthquake;86;19;105;27;reviewed;us;us
+07/04/2019 18.38;-69385;1556933;35;48;mb;;58;4448;66;us;us2000kbvm;16/04/2019 16.49;72km SSE of Panguna, Papua New Guinea;earthquake;5;2;75;55;reviewed;us;us
+07/04/2019 18.30;133747;-914641;10;42;mb;;220;1164;42;us;us700036fa;16/04/2019 16.47;90km SSW of La Gomera, Guatemala;earthquake;83;2;121;19;reviewed;us;us
+07/04/2019 17.45;-412892;-874826;709;57;mww;;58;10268;92;us;us2000kbur;16/04/2019 16.26;West Chile Rise;earthquake;103;35;33;87;reviewed;us;us
+07/04/2019 17.19;-204344;1696896;14249;47;mb;;90;301;62;us;us2000kbuk;16/04/2019 16.10;107km SSE of Isangel, Vanuatu;earthquake;104;67;77;51;reviewed;us;us
+07/04/2019 16.57;-319942;-718758;6677;45;mb;;150;1045;58;us;us2000kbuc;16/04/2019 15.44;78km WSW of Illapel, Chile;earthquake;71;139;222;6;reviewed;us;us
+07/04/2019 15.41;25243;128526;22029;46;mb;;86;2091;45;us;us2000kbtr;16/04/2019 15.34;105km NNE of Tobelo, Indonesia;earthquake;116;8;114;23;reviewed;us;us
+07/04/2019 15.41;-2193;169094;10;45;mb;;162;167;81;us;us700036f8;16/04/2019 15.32;132km ESE of Tadine, New Caledonia;earthquake;59;19;204;9;reviewed;us;us
+07/04/2019 14.20;-337403;-726367;10;43;mb;;185;856;64;us;us2000kbt0;07/04/2019 14.54;95km W of San Antonio, Chile;earthquake;49;19;201;7;reviewed;us;us
+07/04/2019 13.44;563015;1626376;3731;43;mb;;103;4018;91;us;us2000kbsp;07/04/2019 13.58;12km NE of Ust'-Kamchatsk Staryy, Russia;earthquake;109;11;66;66;reviewed;us;us
+07/04/2019 12.52;-337642;-725208;10;57;mww;;79;763;86;us;us2000kbs5;08/04/2019 19.40;85km WSW of San Antonio, Chile;earthquake;38;19;52;36;reviewed;us;us
+07/04/2019 10.27;415081;469423;10;42;mb;;48;3043;116;us;us2000kbr2;07/04/2019 11.16;4km NNE of Cinarli, Azerbaijan;earthquake;84;2;98;29;reviewed;us;us
+07/04/2019 09.46;365158;702216;21635;42;mb;;96;1533;52;us;us2000kbqj;07/04/2019 09.58;33km E of Farkhar, Afghanistan;earthquake;73;81;264;4;reviewed;us;us
+07/04/2019 09.15;-8194;1195639;1741;45;mb;;67;2681;79;us;us2000kbq0;07/04/2019 09.32;43km N of Komodo, Indonesia;earthquake;55;79;121;20;reviewed;us;us
+07/04/2019 09.02;-320537;-1780656;10;51;mb;;67;6252;104;us;us2000kbpu;07/04/2019 09.22;104km SE of L'Esperance Rock, New Zealand;earthquake;104;19;67;72;reviewed;us;us
+07/04/2019 08.43;114336;-865938;436;48;mb;;102;747;125;us;us2000kbpj;07/04/2019 09.09;40km SSW of Masachapa, Nicaragua;earthquake;59;7;27;430;reviewed;us;us
+07/04/2019 05.49;-248842;-68541;13193;41;mb;;56;991;59;us;us2000kbmq;07/04/2019 09.00;173km NW of Antofagasta de la Sierra, Argentina;earthquake;85;94;234;5;reviewed;us;us
+07/04/2019 05.47;-142376;1673583;22352;44;mb;;162;784;71;us;us700036ew;17/04/2019 02.52;44km SSW of Sola, Vanuatu;earthquake;108;63;104;27;reviewed;us;us
+07/04/2019 05.25;-59121;1482076;6217;43;mb;;113;3622;89;us;us700036eu;17/04/2019 02.38;85km NNE of Finschhafen, Papua New Guinea;earthquake;118;44;169;10;reviewed;us;us
+07/04/2019 05.17;-459;282007;10;44;mb;;91;2596;8;us;us700036et;17/04/2019 02.14;122km W of Butembo, Democratic Republic of the Congo;earthquake;98;19;179;9;reviewed;us;us
+07/04/2019 05.00;562538;-1541992;15;46;ml;;;;111;ak;ak0194ggoaum;12/04/2019 00.16;100km ENE of Chirikof Island, Alaska;earthquake;;0;;;reviewed;ak;ak
+07/04/2019 04.18;-93206;1248279;35;5;mb;;35;701;125;us;us2000kblz;07/04/2019 04.37;24km SSW of Atambua, Indonesia;earthquake;65;2;73;60;reviewed;us;us
+07/04/2019 03.15;-158571;-726323;8743;47;mb;;133;3323;131;us;us2000kbl8;07/04/2019 03.34;68km WNW of Lluta, Peru;earthquake;82;41;56;97;reviewed;us;us
+07/04/2019 03.02;381974;141874;5343;44;mb;;144;916;106;us;us700036er;17/04/2019 00.49;55km ESE of Ishinomaki, Japan;earthquake;7;81;112;23;reviewed;us;us
+07/04/2019 01.22;533443;1536256;50924;44;mb;;88;246;6;us;us2000kbk9;19/04/2019 05.06;284km NW of Ozernovskiy, Russia;earthquake;86;48;5;116;reviewed;us;us
+07/04/2019 00.33;309562;-414133;10;47;mb;;94;33093;46;us;us7000353f;14/04/2019 02.11;Northern Mid-Atlantic Ridge;earthquake;129;19;86;41;reviewed;us;us
+07/04/2019 00.19;-6845;1249684;54463;48;mb;;40;2973;72;us;us2000kbj5;14/04/2019 01.46;200km NNW of Dili, East Timor;earthquake;10;71;56;97;reviewed;us;us
+06/04/2019 23.55;-68492;125014;539;63;mww;;20;298;101;us;us2000kbi1;19/04/2019 04.21;198km NNW of Dili, East Timor;earthquake;86;19;34;84;reviewed;us;us
+06/04/2019 23.33;-300596;-713739;6158;48;mb;;91;183;77;us;us2000kbhf;18/04/2019 06.46;12km SSW of Coquimbo, Chile;earthquake;48;41;104;29;reviewed;us;us
+06/04/2019 23.01;308278;-1140297;10;52;mww;;131;736;64;us;us2000kbgw;20/04/2019 00.29;71km SW of Puerto Penasco, Mexico;earthquake;25;18;39;62;reviewed;us;us
+06/04/2019 22.16;-281294;-687223;10129;43;mb;;58;1338;137;us;us2000kbg8;18/04/2019 06.17;86km NW of Vinchina, Argentina;earthquake;65;97;202;7;reviewed;us;us
+06/04/2019 21.55;-184527;-1780092;54948;42;mb;;136;3811;68;us;us7000353c;19/04/2019 06.55;253km NNE of Ndoi Island, Fiji;earthquake;11;101;128;17;reviewed;us;us
+06/04/2019 21.37;-23705;-1791837;55144;43;mb;;194;6469;51;us;us7000353g;13/04/2019 06.25;South of the Fiji Islands;earthquake;155;161;137;15;reviewed;us;us
+06/04/2019 20.44;-102078;1618709;5892;49;mb;;61;2043;79;us;us2000kbf5;09/04/2019 18.54;27km N of Kirakira, Solomon Islands;earthquake;11;64;45;159;reviewed;us;us
+06/04/2019 20.42;137438;1452477;7031;49;mb;;53;399;82;us;us2000kbey;09/04/2019 18.39;44km ENE of Yigo Mayor's Office, Guam;earthquake;75;5;37;231;reviewed;us;us
+06/04/2019 19.11;309278;-413921;10;48;mb;;93;21348;6;us;us2000kbe0;09/04/2019 17.54;Northern Mid-Atlantic Ridge;earthquake;13;19;55;101;reviewed;us;us
+06/04/2019 15.57;5357;1255777;20713;45;mb;;90;1701;129;us;us2000kbc8;12/04/2019 23.49;13km ESE of Sarangani, Philippines;earthquake;83;63;6;82;reviewed;us;us
+06/04/2019 15.23;73577;944726;10;48;mb;;111;3244;69;us;us2000kbbz;06/04/2019 18.17;144km ESE of Mohean, India;earthquake;99;19;91;37;reviewed;us;us
+06/04/2019 14.42;-452489;1671838;7254;46;mb;;100;216;105;us;us2000kbbg;06/04/2019 20.55;45km WNW of Te Anau, New Zealand;earthquake;66;53;164;11;reviewed;us;us
+06/04/2019 14.03;-114618;66466;10;52;mb;;42;7145;104;us;us2000kbax;06/04/2019 14.22;Mid-Indian Ridge;earthquake;75;18;54;111;reviewed;us;us
+06/04/2019 10.45;308107;-1140899;10;41;mb;;164;692;115;us;us2000kb8g;06/04/2019 23.25;77km SW of Puerto Penasco, Mexico;earthquake;58;2;184;8;reviewed;us;us
+06/04/2019 10.33;412056;506524;5387;41;mb;;115;649;106;us;us2000kb88;06/04/2019 10.53;85km NNE of Artyom, Azerbaijan;earthquake;51;77;109;23;reviewed;us;us
+06/04/2019 10.12;7401;943338;10;46;mb;;143;3377;96;us;us2000kb7z;06/04/2019 10.31;128km ESE of Mohean, India;earthquake;49;19;109;25;reviewed;us;us
+06/04/2019 10.11;486067;1528891;14261;44;mb;;167;5438;53;us;us2000kb7x;06/04/2019 10.25;295km E of Vostok, Russia;earthquake;44;107;79;46;reviewed;us;us
+06/04/2019 10.01;-110154;663854;10;46;mb;;129;6977;81;us;us2000kb7u;06/04/2019 10.20;Mid-Indian Ridge;earthquake;115;19;1;30;reviewed;us;us
+06/04/2019 09.54;373915;-247131;10;48;mb;;147;743;57;us;us2000kb83;06/04/2019 10.45;67km SE of Furnas, Portugal;earthquake;9;19;97;33;reviewed;us;us
+06/04/2019 09.47;-115339;664457;10;53;mww;;38;7202;99;us;us2000kb7f;08/04/2019 21.17;Mid-Indian Ridge;earthquake;91;19;73;18;reviewed;us;us
+06/04/2019 08.38;-384531;-926869;10;44;mb;;77;12197;64;us;us2000kb76;06/04/2019 09.29;West Chile Rise;earthquake;128;19;85;40;reviewed;us;us
+06/04/2019 06.02;390831;745781;35;45;mb;;68;2188;142;us;us2000kb54;06/04/2019 06.23;88km E of Karakul, Tajikistan;earthquake;69;2;131;17;reviewed;us;us
+06/04/2019 05.27;-23944;1793101;53429;47;mb;;114;10986;86;us;us7000352n;13/04/2019 05.23;South of the Fiji Islands;earthquake;158;88;225;7;reviewed;us;us
+06/04/2019 05.20;-20366;-1782439;5489;43;mb;;123;4366;74;us;us7000352p;13/04/2019 05.04;57km ENE of Ndoi Island, Fiji;earthquake;148;56;129;17;reviewed;us;us
+06/04/2019 04.32;35644;12667;4811;43;mb;;138;6367;62;us;us7000352u;13/04/2019 04.45;243km SSE of Sarangani, Philippines;earthquake;123;10;153;12;reviewed;us;us
+06/04/2019 03.34;15385;1273812;15399;42;mb;;122;761;48;us;us7000353h;13/04/2019 03.07;72km WSW of Tobelo, Indonesia;earthquake;129;81;186;8;reviewed;us;us
+06/04/2019 03.30;-240558;-179914;50028;44;mb;;116;656;43;us;us7000352l;13/04/2019 02.58;South of the Fiji Islands;earthquake;152;87;17;10;reviewed;us;us
+06/04/2019 03.02;632895;-1512306;53;4;ml;;;;9;ak;ak0194es7ayc;12/04/2019 00.02;114km W of Cantwell, Alaska;earthquake;;3;;;reviewed;ak;ak
+06/04/2019 02.22;387938;144659;10;46;mb;;145;3179;56;us;us2000kb3d;07/04/2019 05.22;245km ESE of Kamaishi, Japan;earthquake;62;16;57;91;reviewed;us;us
+06/04/2019 01.53;145298;-891297;10;44;mb;;104;207;97;us;us2000kb2t;06/04/2019 06.11;10km NNE of Sinuapa, Honduras;earthquake;48;2;109;24;reviewed;us;us
+05/04/2019 23.24;227774;1206585;2241;41;mwr;;168;391;87;us;us7000351j;13/04/2019 04.11;21km NE of Pingtung, Taiwan;earthquake;36;57;6;27;reviewed;us;us
+05/04/2019 21.42;561122;-1493002;2876;42;mb;;143;2457;85;us;us2000kayi;06/04/2019 19.01;265km SE of Kodiak, Alaska;earthquake;7;71;112;23;reviewed;us;us
+05/04/2019 20.46;14523;-852694;10;58;mww;;83;5442;104;us;us2000kaxv;06/04/2019 20.48;Off the coast of Ecuador;earthquake;66;17;73;18;reviewed;us;us
+05/04/2019 20.01;-28806;1295565;10;46;mb;;65;2689;91;us;us2000kaxg;06/04/2019 16.54;86km NE of Amahai, Indonesia;earthquake;65;18;93;42;reviewed;us;us
+05/04/2019 18.58;-185203;-710382;3934;48;mb;;157;677;139;us;us2000kawj;11/04/2019 18.09;77km W of Arica, Chile;earthquake;77;49;127;19;reviewed;us;us
+05/04/2019 18.14;-559323;-278457;5841;65;mww;;67;5229;82;us;us2000kav9;12/04/2019 00.12;94km NNW of Visokoi Island, South Georgia and the South Sandwich Islands;earthquake;88;57;73;18;reviewed;us;us
+05/04/2019 18.02;548584;1678911;10;44;mb;;138;4255;135;us;us2000kaux;05/04/2019 19.24;127km ESE of Nikol'skoye, Russia;earthquake;133;2;7;59;reviewed;us;us
+05/04/2019 14.40;-151738;-173047;10;52;mww;;61;1758;132;us;us2000kaqw;05/04/2019 15.00;114km NE of Hihifo, Tonga;earthquake;83;19;71;19;reviewed;us;us
+05/04/2019 12.28;-126938;454454;10;5;mb;;49;6518;75;us;us2000kapt;05/04/2019 12.48;20km ENE of Pamandzi, Mayotte;earthquake;55;19;94;36;reviewed;us;us
+05/04/2019 11.56;304489;1386344;38895;58;mww;;31;2841;102;us;us2000kans;08/04/2019 17.38;Izu Islands, Japan region;earthquake;85;49;52;35;reviewed;us;us
+05/04/2019 11.08;1324;-896438;4814;44;mb;;169;1184;98;us;us2000kanj;05/04/2019 13.03;43km SSE of Acajutla, El Salvador;earthquake;74;115;49;122;reviewed;us;us
+05/04/2019 10.23;347408;1402993;6509;47;mb;;122;167;39;us;us2000kan9;05/04/2019 12.17;43km SSE of Kawaguchi, Japan;earthquake;75;81;12;21;reviewed;us;us
+05/04/2019 04.29;-82018;1197603;19217;43;mb;;116;3166;85;us;us7000350x;13/04/2019 02.10;34km NNW of Cempa, Indonesia;earthquake;107;109;238;5;reviewed;us;us
+05/04/2019 04.20;308048;702686;10;45;mb;;137;3809;74;us;us2000kakr;05/04/2019 04.52;38km WNW of Taunsa, Pakistan;earthquake;106;19;97;31;reviewed;us;us
+05/04/2019 02.05;-20128;-681439;20476;43;mb;;30;948;101;us;us2000kajs;05/04/2019 02.16;127km W of Colchani, Bolivia;earthquake;87;99;188;8;reviewed;us;us
+05/04/2019 02.04;-208795;-1784776;57985;45;mb;;101;4522;128;us;us7000350z;13/04/2019 04.00;34km SE of Ndoi Island, Fiji;earthquake;143;101;106;26;reviewed;us;us
+05/04/2019 00.56;138112;-917266;35;44;mb;;159;709;106;us;us2000kaji;07/04/2019 05.11;57km SSE of Champerico, Guatemala;earthquake;84;2;65;69;reviewed;us;us
+04/04/2019 23.34;24494;1425132;35;51;mb;;49;2607;77;us;us2000kaht;07/04/2019 05.53;123km ESE of Iwo Jima, Japan;earthquake;93;19;29;398;reviewed;us;us
+04/04/2019 19.31;382985;391726;10;53;mww;;35;1607;93;us;us2000kacn;08/04/2019 22.09;11km E of Doganyol, Turkey;earthquake;41;19;58;29;reviewed;us;us
+04/04/2019 17.06;-86475;1474781;10;49;mb;;42;815;74;us;us2000ka91;05/04/2019 17.45;38km NW of Kokoda, Papua New Guinea;earthquake;66;18;72;64;reviewed;us;us
+04/04/2019 17.01;374737;294106;318;43;mb;;47;826;69;us;us2000ka8w;05/04/2019 16.54;7km NE of Acipayam, Turkey;earthquake;42;46;77;52;reviewed;us;us
+04/04/2019 14.00;-302333;-713733;5861;48;mb;;105;493;106;us;us2000ka6l;04/04/2019 15.21;31km S of Coquimbo, Chile;earthquake;57;33;63;77;reviewed;us;us
+04/04/2019 11.59;203059;1207916;10;46;mb;;118;2513;139;us;us2000ka4n;04/04/2019 15.18;112km W of Sabtang, Philippines;earthquake;87;19;83;43;reviewed;us;us
+04/04/2019 09.45;254446;944083;6309;53;mb;;26;1213;48;us;us2000ka3r;06/04/2019 08.25;26km SSW of Phek, India;earthquake;72;68;45;166;reviewed;us;us
+04/04/2019 09.22;-90931;1193011;10243;46;mb;;77;2937;103;us;us2000ka3l;04/04/2019 09.41;35km N of Bondoboghila, Indonesia;earthquake;71;67;119;21;reviewed;us;us
+04/04/2019 08.36;42224;1272603;6628;48;mb;;108;3286;76;us;us2000ka3e;04/04/2019 09.15;238km ESE of Sarangani, Philippines;earthquake;74;75;67;68;reviewed;us;us
+04/04/2019 07.45;-616855;1549878;10;47;mb;;131;7506;98;us;us2000ka32;04/04/2019 08.12;Balleny Islands region;earthquake;122;19;12;23;reviewed;us;us
+04/04/2019 07.08;-21279;-684502;13114;46;mb;;49;899;113;us;us2000ka2k;04/04/2019 07.28;140km NNE of Calama, Chile;earthquake;68;41;83;43;reviewed;us;us
+04/04/2019 04.41;-55191;1474456;18409;48;mb;;39;3453;68;us;us2000ka16;04/04/2019 05.02;128km NNW of Finschhafen, Papua New Guinea;earthquake;54;79;107;27;reviewed;us;us
+04/04/2019 03.56;230131;1209496;63;51;mww;;43;228;105;us;us2000ka0n;08/04/2019 10.46;34km NW of Taitung City, Taiwan;earthquake;37;45;75;17;reviewed;us;us
+04/04/2019 02.27;156322;-945229;5599;47;mb;;138;1491;76;us;us2000k9zd;14/04/2019 04.48;67km SSE of San Francisco del Mar, Mexico;earthquake;77;74;52;112;reviewed;us;us
+03/04/2019 23.27;-163874;-718288;11296;46;mb;;135;243;89;us;us2000k9xq;13/04/2019 06.01;21km SW of Yura, Peru;earthquake;8;13;146;14;reviewed;us;us
+03/04/2019 23.27;-164155;-719182;11648;44;mb;;136;2458;82;us;us70001jnb;03/04/2019 23.46;31km SW of Yura, Peru;earthquake;88;172;178;9;reviewed;us;us
+03/04/2019 21.40;17615;311994;10;45;mb;;88;2392;57;us;us2000k9xr;13/04/2019 20.40;20km NW of Kigorobya, Uganda;earthquake;98;19;116;22;reviewed;us;us
+03/04/2019 20.12;-328532;-703617;10749;41;ml;;82;182;4;us;us2000k9ss;04/04/2019 03.52;22km E of Los Andes, Chile;earthquake;55;7;49;54;reviewed;us;us
+03/04/2019 18.08;-191579;-692549;12586;4;mb;;81;511;46;us;us2000k9qi;16/04/2019 00.57;111km SSE of Putre, Chile;earthquake;52;64;258;4;reviewed;us;us
+03/04/2019 16.33;-208485;-700259;7419;41;mb;;96;122;62;us;us2000k9wf;03/04/2019 23.00;70km S of Iquique, Chile;earthquake;38;55;262;4;reviewed;us;us
+03/04/2019 15.21;-21811;-771988;13929;42;mb;;82;1939;87;us;us2000k9m8;04/04/2019 09.00;97km ESE of Palora, Ecuador;earthquake;77;102;146;13;reviewed;us;us
+03/04/2019 13.15;516526;1778177;10;43;mb;;212;2528;84;us;us2000k9l5;03/04/2019 13.41;52km SSE of Kiska Volcano, Alaska;earthquake;55;2;67;62;reviewed;us;us
+03/04/2019 11.24;125741;-893905;10;44;mb;;160;1814;4;us;us2000k9jx;03/04/2019 11.50;101km S of La Libertad, El Salvador;earthquake;84;2;76;50;reviewed;us;us
+03/04/2019 05.55;424302;141499;12628;43;mb;;79;1299;41;us;us2000k9h4;03/04/2019 06.09;18km SE of Shiraoi, Japan;earthquake;77;91;109;24;reviewed;us;us
+03/04/2019 04.51;519475;1779633;10;41;mb;;197;2023;89;us;us2000k9gq;15/04/2019 06.30;30km SE of Kiska Volcano, Alaska;earthquake;72;2;68;60;reviewed;us;us
+03/04/2019 04.29;-245;-1798518;46943;4;mb;;197;7;55;us;us700034hr;15/04/2019 06.24;South of the Fiji Islands;earthquake;102;116;134;15;reviewed;us;us
+03/04/2019 03.52;229999;1209109;10;54;mww;;30;239;88;us;us2000k9g3;15/04/2019 06.20;35km NW of Taitung City, Taiwan;earthquake;45;16;45;47;reviewed;us;us
+03/04/2019 03.42;-392482;1780542;10;42;mb;;127;1049;78;us;us2000k9fy;15/04/2019 05.11;64km ESE of Wairoa, New Zealand;earthquake;35;19;187;8;reviewed;us;us
+03/04/2019 03.39;476877;1543362;4505;42;mb;;190;5836;69;us;us700034hq;15/04/2019 05.02;Kuril Islands;earthquake;149;102;106;25;reviewed;us;us
+03/04/2019 03.03;518035;1781457;10;42;mb;;205;2651;93;us;us2000k9ff;15/04/2019 04.22;29km WSW of Little Sitkin Island, Alaska;earthquake;77;16;74;51;reviewed;us;us
+03/04/2019 01.28;519334;1780496;10;46;mb;;200;2549;51;us;us2000k9eq;15/04/2019 03.01;31km W of Little Sitkin Island, Alaska;earthquake;10;2;48;127;reviewed;us;us
+03/04/2019 01.13;521582;1782042;10;42;mb;;190;2574;11;us;us2000k9eg;15/04/2019 03.02;31km NW of Little Sitkin Island, Alaska;earthquake;96;2;79;45;reviewed;us;us
+03/04/2019 01.01;-60954;1489304;5088;5;mb;;36;3734;89;us;us2000k9eb;15/04/2019 02.46;69km W of Kandrian, Papua New Guinea;earthquake;7;44;65;75;reviewed;us;us
+03/04/2019 00.19;51641;1780435;10;41;mb;;212;2659;72;us;us700034fu;25/04/2019 05.13;46km SW of Little Sitkin Island, Alaska;earthquake;79;2;165;10;reviewed;us;us
+02/04/2019 23.51;517014;178052;10;4;mb;;209;2638;32;us;us700034ft;18/04/2019 06.07;41km SW of Little Sitkin Island, Alaska;earthquake;11;2;144;13;reviewed;us;us
+02/04/2019 23.46;519029;1780254;10;47;mb;;184;2546;77;us;us2000k9dj;18/04/2019 05.32;33km W of Little Sitkin Island, Alaska;earthquake;54;2;92;36;reviewed;us;us
+02/04/2019 23.45;519158;1780878;10;46;mb;;132;2578;56;us;us700034fz;18/04/2019 05.58;28km W of Little Sitkin Island, Alaska;earthquake;106;19;12;21;reviewed;us;us
+02/04/2019 23.39;51896;1781044;10;52;mb;;140;2594;71;us;us2000k9e2;18/04/2019 05.00;28km WSW of Little Sitkin Island, Alaska;earthquake;43;19;8;52;reviewed;us;us
+02/04/2019 23.35;521675;1780679;79;64;mww;;19;1942;55;us;us2000k9d7;19/04/2019 23.47;32km ENE of Kiska Volcano, Alaska;earthquake;63;25;31;101;reviewed;us;us
+02/04/2019 22.49;133414;-902248;5353;44;mb;;141;1345;97;us;us2000k9cb;04/04/2019 22.46;51km WSW of Acajutla, El Salvador;earthquake;33;119;69;60;reviewed;us;us
+02/04/2019 22.33;-243372;-1797985;50462;47;mb;;127;6859;83;us;us2000k9by;04/04/2019 22.11;South of the Fiji Islands;earthquake;134;64;52;112;reviewed;us;us
+02/04/2019 22.29;419733;1425677;67;45;mwr;;115;441;72;us;us2000k9bp;04/04/2019 22.03;43km SSE of Shizunai, Japan;earthquake;66;74;89;12;reviewed;us;us
+02/04/2019 21.30;-64144;1489688;449;47;mb;;34;3872;73;us;us2000k9ai;04/04/2019 19.50;67km WSW of Kandrian, Papua New Guinea;earthquake;66;41;63;76;reviewed;us;us
+02/04/2019 18.31;-13498;1201596;2993;44;mb;;88;2522;4;us;us700034fi;14/04/2019 21.20;55km W of Kasiguncu, Indonesia;earthquake;67;13;149;13;reviewed;us;us
+02/04/2019 16.29;-18924;-1755608;22874;43;mb;;88;5205;48;us;us700034fg;14/04/2019 20.29;159km NW of Pangai, Tonga;earthquake;102;81;93;33;reviewed;us;us
+02/04/2019 16.25;122029;1440262;10;49;mb;;67;1604;43;us;us700034fe;14/04/2019 19.17;136km SSW of Merizo Village, Guam;earthquake;75;19;149;21;reviewed;us;us
+02/04/2019 16.23;374038;720929;21543;43;mb;;70;366;61;us;us2000k94y;14/04/2019 18.43;28km NE of Roshtqal'a, Tajikistan;earthquake;85;64;178;9;reviewed;us;us
+02/04/2019 15.17;-512106;-720468;10;48;mww;;127;548;84;us;us2000k94n;14/04/2019 18.36;45km NNE of Yacimiento Rio Turbio, Argentina;earthquake;62;19;117;7;reviewed;us;us
+02/04/2019 15.09;-72819;1145218;2405;45;mb;;64;1236;77;us;us700034fd;14/04/2019 18.18;60km NNE of Sumberanyar, Indonesia;earthquake;71;59;144;14;reviewed;us;us
+02/04/2019 14.28;1748;1274036;12128;51;mb;;104;97;78;us;us2000k94e;02/04/2019 14.42;67km W of Tobelo, Indonesia;earthquake;71;48;124;21;reviewed;us;us
+02/04/2019 13.31;-62707;1550036;6082;5;mb;;67;3502;85;us;us2000k93r;02/04/2019 13.50;53km W of Panguna, Papua New Guinea;earthquake;76;63;36;249;reviewed;us;us
+02/04/2019 10.00;352892;234943;10;44;mb;;179;1141;119;us;us2000k91m;09/04/2019 10.20;18km WNW of Palaiochora, Greece;earthquake;67;2;126;18;reviewed;us;us
+02/04/2019 05.50;539306;1694268;10;42;mb;;152;305;76;us;us2000k902;02/04/2019 06.12;262km ESE of Nikol'skoye, Russia;earthquake;105;2;48;123;reviewed;us;us
+02/04/2019 03.25;-211977;-684565;12915;44;mb;;64;943;88;us;us2000k8y9;02/04/2019 03.35;148km NNE of Calama, Chile;earthquake;7;45;144;14;reviewed;us;us
+02/04/2019 03.22;-72965;1145721;35;49;mww;;50;1238;102;us;us2000k8y8;02/04/2019 05.36;61km NNE of Sumberanyar, Indonesia;earthquake;62;19;71;19;reviewed;us;us
+02/04/2019 02.59;520755;1781196;10;47;mb;;127;2546;73;us;us2000k8y2;07/04/2019 05.09;29km WNW of Little Sitkin Island, Alaska;earthquake;79;19;28;375;reviewed;us;us
+02/04/2019 01.05;-72121;114537;213;46;mb;;58;1306;81;us;us2000k8wz;02/04/2019 03.49;68km NNE of Sumberanyar, Indonesia;earthquake;34;54;102;29;reviewed;us;us
+01/04/2019 22.49;212755;1223399;1763;45;mb;;120;1929;66;us;us2000k8ua;25/04/2019 18.42;74km NE of Itbayat, Philippines;earthquake;108;68;74;54;reviewed;us;us
+01/04/2019 22.23;528688;1582491;13907;43;mb;;172;287;44;us;us2000k8tw;25/04/2019 20.18;9km S of Paratunka, Russia;earthquake;141;76;84;40;reviewed;us;us
+01/04/2019 22.07;74631;942665;10;44;mb;;159;3467;92;us;us2000k8tm;25/04/2019 19.37;118km ESE of Mohean, India;earthquake;74;19;126;18;reviewed;us;us
+01/04/2019 21.29;73374;941297;10;41;mb;;184;3497;86;us;us700033qg;25/04/2019 22.56;113km SE of Mohean, India;earthquake;129;2;213;6;reviewed;us;us
+01/04/2019 20.44;-301909;-714702;35;44;mb;;101;501;104;us;us2000k8re;26/04/2019 00.00;29km SSW of Coquimbo, Chile;earthquake;49;2;269;5;reviewed;us;us
+01/04/2019 20.39;-182058;653656;10;6;mww;;65;9535;117;us;us2000k8ri;26/04/2019 00.18;262km NE of Port Mathurin, Mauritius;earthquake;81;18;6;27;reviewed;us;us
+01/04/2019 19.46;-150662;-1772283;35329;49;mb;;42;1146;161;us;us2000k8q8;23/04/2019 23.02;131km SE of Sigave, Wallis and Futuna;earthquake;101;56;3;344;reviewed;us;us
+01/04/2019 18.42;-203413;-17738;51593;42;mb;;99;5032;72;us;us700033qe;14/04/2019 17.08;141km ENE of Ndoi Island, Fiji;earthquake;124;96;87;37;reviewed;us;us
+01/04/2019 18.34;-95446;1590826;10;43;mb;;136;859;129;us;us700033qb;14/04/2019 16.52;96km W of Honiara, Solomon Islands;earthquake;125;2;238;5;reviewed;us;us
+01/04/2019 18.28;75011;942335;364;45;mb;;118;3517;41;us;us700033qc;14/04/2019 16.40;113km ESE of Mohean, India;earthquake;111;23;272;4;reviewed;us;us
+01/04/2019 17.39;-203898;946005;10;49;mb;;114;17889;69;us;us2000k8n1;01/04/2019 18.45;South Indian Ocean;earthquake;78;19;88;40;reviewed;us;us
+01/04/2019 17.33;335193;455906;10;41;mb;;104;1597;88;us;us700033rn;14/04/2019 16.24;25km S of Mandali, Iraq;earthquake;59;19;123;18;reviewed;us;us
+01/04/2019 16.45;-351825;-1072382;10;46;mb;;115;27078;71;us;us700033q8;14/04/2019 16.02;Southern East Pacific Rise;earthquake;103;19;81;45;reviewed;us;us
+01/04/2019 16.25;-60245;131613;738;46;mb;;58;197;85;us;us2000k8jl;10/04/2019 18.48;131km WSW of Tual, Indonesia;earthquake;36;103;141;15;reviewed;us;us
+01/04/2019 16.05;-428775;-826123;10;49;mb;;189;6566;59;us;us2000k8j6;10/04/2019 18.46;West Chile Rise;earthquake;118;2;7;64;reviewed;us;us
+01/04/2019 15.44;94698;-826453;10;47;mb;;106;672;84;us;us2000k8iz;10/04/2019 18.42;4km SW of Guabito, Panama;earthquake;24;19;65;72;reviewed;us;us
+01/04/2019 13.09;126086;1392285;1594;49;mb;;80;16914;1;us;us2000k8h9;01/04/2019 13.26;State of Yap, Federated States of Micronesia;earthquake;116;24;46;147;reviewed;us;us
+01/04/2019 13.00;-193301;-1761354;29086;45;mb;;107;5343;91;us;us2000k8h0;05/04/2019 14.06;194km WNW of Pangai, Tonga;earthquake;118;125;115;22;reviewed;us;us
+01/04/2019 12.53;335653;457786;10;44;mb;;72;1548;97;us;us2000k8gu;01/04/2019 13.07;29km SE of Mandali, Iraq;earthquake;83;19;96;31;reviewed;us;us
+01/04/2019 12.19;-178591;-66966;28083;47;mb;;34;1918;126;us;us2000k8g3;01/04/2019 12.38;23km NE of Oruro, Bolivia;earthquake;82;82;32;291;reviewed;us;us
+01/04/2019 12.16;336698;457448;10;49;mb;;72;1443;96;us;us2000k8g1;01/04/2019 12.59;19km ESE of Mandali, Iraq;earthquake;8;19;43;167;reviewed;us;us
+01/04/2019 12.07;335771;45818;10;52;mww;;47;1538;133;us;us2000k8fr;01/04/2019 22.03;31km SE of Mandali, Iraq;earthquake;7;18;73;18;reviewed;us;us
+01/04/2019 10.11;75503;943786;10;55;mww;;60;344;103;us;us2000k8e8;02/04/2019 18.16;125km ESE of Mohean, India;earthquake;72;18;73;18;reviewed;us;us
+01/04/2019 09.37;7552;943214;10;49;mb;;110;3483;98;us;us2000k8dy;01/04/2019 10.11;119km ESE of Mohean, India;earthquake;77;19;6;87;reviewed;us;us
+01/04/2019 08.56;76968;94363;10;46;mb;;116;355;82;us;us2000k8ds;01/04/2019 09.50;119km ESE of Mohean, India;earthquake;86;19;1;30;reviewed;us;us
+01/04/2019 07.52;7533;943784;10;52;mww;;80;3428;139;us;us2000k8cy;01/04/2019 22.26;126km ESE of Mohean, India;earthquake;73;19;75;17;reviewed;us;us
+01/04/2019 07.09;75609;942244;10;49;mb;;153;3562;84;us;us2000k8cq;01/04/2019 07.41;109km ESE of Mohean, India;earthquake;101;19;77;53;reviewed;us;us
+01/04/2019 06.54;77978;944325;10;43;mb;;172;3571;51;us;us700033pd;12/04/2019 04.48;124km E of Mohean, India;earthquake;124;19;161;11;reviewed;us;us
+01/04/2019 06.35;74303;941713;10;44;mb;;191;352;59;us;us700033pc;12/04/2019 04.26;111km ESE of Mohean, India;earthquake;79;19;11;24;reviewed;us;us
+01/04/2019 06.33;74994;943548;10;43;mb;;193;3424;76;us;us700033py;12/04/2019 04.21;125km ESE of Mohean, India;earthquake;99;19;142;14;reviewed;us;us
+01/04/2019 06.30;75923;943184;10;43;mb;;158;3512;123;us;us2000k8c8;12/04/2019 04.16;117km ESE of Mohean, India;earthquake;53;19;125;18;reviewed;us;us
+01/04/2019 06.09;73922;941285;10;51;mb;;181;3531;63;us;us2000k8c0;12/04/2019 04.11;109km SE of Mohean, India;earthquake;61;19;73;60;reviewed;us;us
+01/04/2019 06.04;7444;942347;10;44;mb;;193;348;91;us;us700033pa;12/04/2019 04.10;116km ESE of Mohean, India;earthquake;122;2;149;13;reviewed;us;us
+01/04/2019 05.54;73911;94163;10;44;mb;;177;3503;43;us;us2000k8c6;12/04/2019 04.03;113km SE of Mohean, India;earthquake;74;18;115;22;reviewed;us;us
+01/04/2019 05.38;75499;941805;10;51;mb;;57;3588;151;us;us2000k8be;12/04/2019 03.57;105km ESE of Mohean, India;earthquake;57;18;84;46;reviewed;us;us
+01/04/2019 05.36;155065;-930546;9657;46;mb;;129;1172;92;us;us2000k8bd;12/04/2019 03.55;18km WNW of Mapastepec, Mexico;earthquake;61;7;38;219;reviewed;us;us
+01/04/2019 05.22;74345;943243;10;44;mb;;159;3405;84;us;us2000k8c2;12/04/2019 03.49;125km ESE of Mohean, India;earthquake;65;19;155;12;reviewed;us;us
+01/04/2019 05.21;74497;943057;10;46;mb;;102;3429;115;us;us2000k8bt;12/04/2019 02.17;123km ESE of Mohean, India;earthquake;92;19;89;38;reviewed;us;us
+01/04/2019 05.15;75781;943147;10;42;mb;;191;3505;61;us;us700033p8;12/04/2019 02.15;118km ESE of Mohean, India;earthquake;105;19;167;10;reviewed;us;us
+01/04/2019 05.11;322182;1020102;10;45;mb;;75;10463;128;us;us2000k8bn;12/04/2019 02.11;40km NNW of Barkam, China;earthquake;63;18;86;39;reviewed;us;us
+01/04/2019 04.57;76366;940594;10;44;mb;;176;3735;86;us;us700033p6;12/04/2019 02.05;89km ESE of Mohean, India;earthquake;145;2;161;11;reviewed;us;us
+01/04/2019 04.54;249167;1222092;12851;42;mb;;75;648;93;us;us2000k8ai;12/04/2019 01.59;49km ENE of Yilan, Taiwan;earthquake;74;49;7;57;reviewed;us;us
+01/04/2019 04.49;74892;942871;10;47;mb;;159;3468;77;us;us2000k8b6;12/04/2019 01.53;119km ESE of Mohean, India;earthquake;103;19;85;42;reviewed;us;us
+01/04/2019 04.46;76279;943377;10;46;mb;;158;3522;98;us;us2000k8b1;12/04/2019 01.42;118km ESE of Mohean, India;earthquake;103;19;105;27;reviewed;us;us
+01/04/2019 04.42;67741;943164;10;45;mb;;164;5542;126;us;us700033p5;12/04/2019 01.39;147km NW of Sabang, Indonesia;earthquake;147;2;14;15;reviewed;us;us
+01/04/2019 04.40;76319;944745;10;44;mb;;100;3426;94;us;us2000k8av;12/04/2019 01.11;132km ESE of Mohean, India;earthquake;72;19;139;15;reviewed;us;us
+01/04/2019 04.28;76354;942886;10;46;mb;;174;3563;85;us;us2000k8aj;12/04/2019 00.51;113km ESE of Mohean, India;earthquake;78;15;103;28;reviewed;us;us
+01/04/2019 04.16;72582;941564;10;43;mb;;178;3429;129;us;us700033pn;12/04/2019 00.30;121km SE of Mohean, India;earthquake;107;2;189;8;reviewed;us;us
+01/04/2019 04.16;105739;1258419;4868;56;mww;;31;5938;118;us;us2000k89w;11/04/2019 23.57;37km NE of Loreto, Philippines;earthquake;85;4;52;36;reviewed;us;us
+01/04/2019 04.02;76436;943655;10;45;mb;;101;3512;137;us;us2000k89q;11/04/2019 23.33;121km ESE of Mohean, India;earthquake;87;19;128;18;reviewed;us;us
+01/04/2019 03.49;374463;294135;10;44;mb;;48;801;87;us;us2000k89k;11/04/2019 06.11;6km ENE of Acipayam, Turkey;earthquake;49;19;76;50;reviewed;us;us
+01/04/2019 03.34;76885;943414;10;46;mb;;157;356;66;us;us2000k89y;11/04/2019 06.03;117km ESE of Mohean, India;earthquake;105;19;91;36;reviewed;us;us
+01/04/2019 03.23;75649;942076;10;52;mww;;41;3577;136;us;us2000k897;11/04/2019 05.48;107km ESE of Mohean, India;earthquake;65;17;78;16;reviewed;us;us
+01/04/2019 03.22;74035;941203;10;46;mb;;109;3544;56;us;us700033qw;11/04/2019 05.40;108km SE of Mohean, India;earthquake;107;19;11;25;reviewed;us;us
+01/04/2019 03.21;76959;942614;10;52;mww;;45;3623;9;us;us2000k896;11/04/2019 03.49;108km ESE of Mohean, India;earthquake;75;18;68;21;reviewed;us;us
+01/04/2019 03.11;75416;943001;10;51;mb;;63;3492;99;us;us2000k88y;11/04/2019 05.26;118km ESE of Mohean, India;earthquake;85;11;67;73;reviewed;us;us
+01/04/2019 03.08;75523;943011;10;48;mb;;79;3499;115;us;us2000k891;11/04/2019 05.21;117km ESE of Mohean, India;earthquake;66;18;1;31;reviewed;us;us
+01/04/2019 03.04;77505;940496;10;44;mb;;182;3816;119;us;us700033p3;11/04/2019 05.15;84km ESE of Mohean, India;earthquake;111;18;126;18;reviewed;us;us
+01/04/2019 03.04;75719;941319;10;42;mb;;196;5511;72;us;us700033qr;11/04/2019 05.01;99km ESE of Mohean, India;earthquake;146;2;2;7;reviewed;us;us
+01/04/2019 02.58;74607;942036;10;49;mb;;113;3514;69;us;us2000k88r;01/04/2019 23.28;112km ESE of Mohean, India;earthquake;42;19;57;98;reviewed;us;us
+01/04/2019 02.56;7567;942819;10;46;mb;;193;3523;85;us;us700033pk;14/04/2019 05.58;115km ESE of Mohean, India;earthquake;151;2;245;5;reviewed;us;us
+01/04/2019 02.54;75591;941522;10;45;mb;;111;3615;58;us;us700033p0;14/04/2019 05.48;102km ESE of Mohean, India;earthquake;63;19;163;11;reviewed;us;us
+01/04/2019 02.49;76133;943217;10;49;mb;;111;3524;78;us;us2000k88l;01/04/2019 23.16;117km ESE of Mohean, India;earthquake;89;19;52;118;reviewed;us;us
+01/04/2019 02.44;75203;943975;10;49;mb;;111;3406;1;us;us2000k88j;01/04/2019 23.09;129km ESE of Mohean, India;earthquake;49;19;63;79;reviewed;us;us
+01/04/2019 02.37;74732;942219;10;48;mb;;60;3508;73;us;us2000k88f;01/04/2019 23.03;113km ESE of Mohean, India;earthquake;6;18;69;65;reviewed;us;us
+01/04/2019 02.34;76243;94452;10;49;mb;;110;3436;64;us;us2000k88a;01/04/2019 22.49;130km ESE of Mohean, India;earthquake;93;19;64;77;reviewed;us;us
+01/04/2019 02.25;76688;943113;10;5;mb;;64;3568;7;us;us2000k88n;01/04/2019 23.23;114km ESE of Mohean, India;earthquake;9;19;58;95;reviewed;us;us
+01/04/2019 02.23;76511;9433;10;49;mb;;110;3543;9;us;us2000k883;01/04/2019 10.26;117km ESE of Mohean, India;earthquake;8;19;58;93;reviewed;us;us
+01/04/2019 02.03;78053;943646;10;51;mww;;26;3624;8;us;us2000k87i;01/04/2019 22.56;116km E of Mohean, India;earthquake;79;18;78;16;reviewed;us;us
+01/04/2019 01.59;83118;946243;10;48;mb;;77;3834;87;us;us2000k889;01/04/2019 22.48;149km ENE of Mohean, India;earthquake;86;19;71;62;reviewed;us;us
+01/04/2019 01.56;75796;943296;10;5;mb;;80;3495;77;us;us2000kcfj;09/04/2019 06.11;119km ESE of Mohean, India;earthquake;55;18;7;64;reviewed;us;us
+01/04/2019 01.48;75776;941803;10;49;mb;;97;3606;48;us;us2000kcfi;09/04/2019 06.00;104km ESE of Mohean, India;earthquake;66;19;132;18;reviewed;us;us
+01/04/2019 01.46;78489;942501;10;51;mww;;27;3735;94;us;us2000k87x;01/04/2019 22.52;103km E of Mohean, India;earthquake;68;18;73;18;reviewed;us;us
+01/04/2019 01.44;77758;943057;10;49;mww;;43;3645;85;us;us2000k87s;02/04/2019 00.25;111km E of Mohean, India;earthquake;54;18;103;9;reviewed;us;us
+01/04/2019 01.42;75642;943894;10;5;mb;;94;3441;62;us;us2000kcff;09/04/2019 05.54;126km ESE of Mohean, India;earthquake;105;19;99;32;reviewed;us;us
+01/04/2019 01.38;78123;944571;10;44;mb;;97;3564;46;us;us2000kcfe;09/04/2019 05.46;126km E of Mohean, India;earthquake;68;16;87;38;reviewed;us;us
+01/04/2019 01.32;75814;944348;10;45;mb;;122;342;72;us;us2000k86h;01/04/2019 22.59;130km ESE of Mohean, India;earthquake;96;19;104;27;reviewed;us;us
+01/04/2019 01.22;374656;204673;10;43;mb;;150;1197;138;us;us2000k864;01/04/2019 01.38;42km SW of Mouzaki, Greece;earthquake;22;2;239;5;reviewed;us;us
+31/03/2019 21.35;-196289;-1777679;57799;47;mb;;93;4382;109;us;us2000k833;28/04/2019 19.03;149km NE of Ndoi Island, Fiji;earthquake;117;9;96;33;reviewed;us;us
+31/03/2019 20.31;20919;978634;6107;45;mb;;87;834;117;us;us2000k82i;28/04/2019 18.54;85km W of Onan Ganjang, Indonesia;earthquake;62;78;99;30;reviewed;us;us
+31/03/2019 18.37;16917;1264642;5051;41;mb;;107;1284;45;us;us2000kcf6;09/04/2019 16.49;142km NW of Kota Ternate, Indonesia;earthquake;97;88;13;16;reviewed;us;us
+31/03/2019 18.23;-57302;1464461;7277;4;mb;;158;3775;51;us;us2000kcfa;09/04/2019 16.32;89km NE of Kainantu, Papua New Guinea;earthquake;154;94;113;21;reviewed;us;us
+31/03/2019 17.45;33226;1244017;35186;42;mb;;99;3898;69;us;us2000kcf8;09/04/2019 16.21;208km NNW of Manado, Indonesia;earthquake;10;99;84;39;reviewed;us;us
+31/03/2019 17.40;-178168;-1782679;54459;44;mb;;72;3492;69;us;us2000k811;09/04/2019 16.10;294km ESE of Lambasa, Fiji;earthquake;117;9;66;66;reviewed;us;us
+31/03/2019 17.29;-220584;-176144;16422;45;mb;;135;6536;54;us;us2000kcf5;09/04/2019 15.30;136km SW of Vaini, Tonga;earthquake;77;167;145;14;reviewed;us;us
+31/03/2019 17.27;-99668;-793227;29;55;mww;;153;2959;63;us;us2000k80u;08/04/2019 23.13;127km SW of Chimbote, Peru;earthquake;86;19;41;56;reviewed;us;us
+31/03/2019 17.25;522254;1590022;5595;44;mb;;164;827;43;us;us2000k80t;08/04/2019 23.07;88km SSE of Vilyuchinsk, Russia;earthquake;91;79;55;97;reviewed;us;us
+31/03/2019 16.41;622084;-151247;766;4;ml;;;;74;ak;ak019452y61d;27/04/2019 01.29;58km WSW of Talkeetna, Alaska;earthquake;;2;;;reviewed;ak;ak
+31/03/2019 16.20;-180628;-1784098;63598;41;mb;;115;3383;55;us;us2000kcf4;08/04/2019 23.03;288km N of Ndoi Island, Fiji;earthquake;14;111;116;20;reviewed;us;us
+31/03/2019 16.09;-20306;-808862;10;49;mb;;107;1684;71;us;us2000k80e;08/04/2019 22.52;22km N of La Libertad, Ecuador;earthquake;58;17;31;336;reviewed;us;us
+31/03/2019 15.44;54973;1270441;4862;4;mb;;181;2135;53;us;us2000kcf9;08/04/2019 22.49;135km SE of Pondaguitan, Philippines;earthquake;93;58;144;13;reviewed;us;us
+31/03/2019 15.39;-107401;1656817;35;44;mb;;140;5792;52;us;us2000kcf3;08/04/2019 22.02;16km W of Lata, Solomon Islands;earthquake;82;2;204;7;reviewed;us;us
+31/03/2019 15.28;56738;-782892;10;46;mb;;112;3794;82;us;us2000k7zx;08/04/2019 21.53;112km W of Nuqui, Colombia;earthquake;24;19;51;117;reviewed;us;us
+31/03/2019 15.15;475237;152834;981;42;mb;;152;6398;46;us;us2000kcf1;08/04/2019 21.44;Kuril Islands;earthquake;133;95;1;28;reviewed;us;us
+31/03/2019 15.13;-128225;45358;10;47;mb;;49;598;7;us;us2000k7zt;08/04/2019 21.25;8km ESE of Pamandzi, Mayotte;earthquake;54;19;88;39;reviewed;us;us
+31/03/2019 13.51;38952;707796;612;44;mb;;56;364;85;us;us2000k7yz;24/04/2019 10.04;36km ESE of Gharm, Tajikistan;earthquake;42;52;123;19;reviewed;us;us
+31/03/2019 13.30;375135;29372;10;51;mww;;34;875;83;us;us2000k7yn;24/04/2019 10.02;10km NNE of Acipayam, Turkey;earthquake;5;18;73;18;reviewed;us;us
+31/03/2019 12.42;-148748;-1772512;36662;44;mb;;148;1013;86;us;us2000k7yd;24/04/2019 09.56;117km ESE of Sigave, Wallis and Futuna;earthquake;118;68;69;61;reviewed;us;us
+31/03/2019 12.24;-560214;-276075;10646;43;mb;;126;5382;89;us;us2000kcf2;24/04/2019 09.55;79km NNW of Visokoi Island, South Georgia and the South Sandwich Islands;earthquake;122;74;153;12;reviewed;us;us
+31/03/2019 10.54;-19238;-80816;10;44;mb;;97;1648;43;us;us2000kcet;28/04/2019 14.08;34km N of Santa Elena, Ecuador;earthquake;59;19;203;7;reviewed;us;us
+31/03/2019 10.38;25098;1269335;10;44;mb;;91;2109;86;us;us2000kcey;28/04/2019 13.01;135km SSW of Itoman, Japan;earthquake;3;19;105;26;reviewed;us;us
+31/03/2019 10.07;849;1264047;5982;47;mb;;61;964;74;us;us2000k7wn;28/04/2019 13.43;107km W of Kota Ternate, Indonesia;earthquake;74;76;75;53;reviewed;us;us
+31/03/2019 09.28;-19469;-807096;10;54;mww;;36;154;99;us;us2000k7w8;01/04/2019 15.35;35km NNE of Santa Elena, Ecuador;earthquake;62;14;8;15;reviewed;us;us
+31/03/2019 09.27;-19691;-807202;10;51;mww;;106;1542;65;us;us2000k7w6;28/04/2019 15.05;32km NNE of Santa Elena, Ecuador;earthquake;51;16;68;21;reviewed;us;us
+31/03/2019 09.22;245804;1270907;10;43;mb;;119;2486;57;us;us2000kcev;28/04/2019 13.37;180km SSW of Itoman, Japan;earthquake;6;19;154;12;reviewed;us;us
+31/03/2019 09.12;-20272;-808818;10;44;mb;;98;168;67;us;us2000kcen;28/04/2019 14.43;22km N of La Libertad, Ecuador;earthquake;45;19;149;14;reviewed;us;us
+31/03/2019 09.08;-20009;-809989;10;49;mb;;98;18;76;us;us2000k7w1;28/04/2019 14.25;24km N of Salinas, Ecuador;earthquake;39;19;56;100;reviewed;us;us
+31/03/2019 09.04;-1944;-808089;18;62;mww;;36;1634;83;us;us2000k7vu;27/04/2019 11.31;32km N of Santa Elena, Ecuador;earthquake;68;18;34;81;reviewed;us;us
+31/03/2019 09.02;-111295;1664987;15103;45;mb;;143;6662;46;us;us2000k7vw;27/04/2019 11.18;85km ESE of Lata, Solomon Islands;earthquake;61;81;53;104;reviewed;us;us
+31/03/2019 07.00;205222;1205193;10;44;mb;;104;2343;62;us;us2000k7vm;27/04/2019 09.35;140km WSW of Itbayat, Philippines;earthquake;74;18;108;25;reviewed;us;us
+31/03/2019 05.53;-174458;-1748549;26316;41;mb;;132;4598;31;us;us2000kcej;26/04/2019 00.55;162km NW of Neiafu, Tonga;earthquake;86;145;158;11;reviewed;us;us
+31/03/2019 05.07;-306884;-1781362;13591;47;mb;;135;7463;97;us;us2000kcei;26/04/2019 02.08;110km NE of L'Esperance Rock, New Zealand;earthquake;143;51;153;13;reviewed;us;us
+31/03/2019 01.51;-180653;-1748121;23879;43;mb;;77;4741;59;us;us2000kced;13/04/2019 05.37;108km NW of Neiafu, Tonga;earthquake;114;85;138;15;reviewed;us;us
+31/03/2019 01.09;-8576;1565043;10;53;mww;;43;3507;58;us;us2000k7u6;12/04/2019 06.57;64km SW of Gizo, Solomon Islands;earthquake;8;18;83;14;reviewed;us;us
