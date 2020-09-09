@@ -1,2 +1,3 @@
 # PBA_Semester_01
-Composed of three subjects which are database, software testing and data science 
+The study materials and exercises from 3 subjects: database, software testing and data science.
+Data base folder contains SQL scripts for the exam project using mssql.
